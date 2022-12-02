@@ -56,6 +56,7 @@ def compute_total_score(file_path):
     print(my_total)
 
 def main():
+    compute_total_score('test_input.txt')
     compute_total_score('inputs.txt')
 
 if __name__ == '__main__':
