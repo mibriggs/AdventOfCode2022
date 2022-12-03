@@ -1,16 +1,3 @@
-def binary_search(arr, low, high, x):
- 
-    if high >= low:
-        mid = (high + low) // 2
-        if arr[mid] == x:
-            return mid
-        elif arr[mid] > x:
-            return binary_search(arr, low, mid - 1, x)
-        else:
-            return binary_search(arr, mid + 1, high, x)
-    else:
-        return -1
-
 def get_priority(letter):
     lower_start = ord('a')
     upper_start = ord('A')
@@ -25,15 +12,11 @@ def get_priority(letter):
 def split_sack(rucksack_items):
     mid_point = len(rucksack_items)//2
     compartment1, compartment2 = rucksack_items[:mid_point], rucksack_items[mid_point:]
-    compartment2 = ''.join(sorted(compartment2))
+    intersect = set(compartment1) & set(compartment2)
     priorities_so_far = 0
-    seen_letters = []
-    for char in compartment1:
-        indx = binary_search(compartment2, 0, len(compartment2)-1, char)
-        if indx > -1 and char not in seen_letters:
-            priority = get_priority(char)
-            priorities_so_far += priority
-        seen_letters.append(char)
+    for char in intersect:
+        priority = get_priority(char)
+        priorities_so_far += priority
     return priorities_so_far
 
 def get_duplicates(file_path):
