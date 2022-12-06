@@ -78,7 +78,7 @@ def find_ending_stacks(file_path):
 
 
 def main():
-    # find_ending_stacks('test_input.txt')
+    find_ending_stacks('test_input.txt')
     find_ending_stacks('inputs.txt')
     
 
