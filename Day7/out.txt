@@ -1,0 +1,3128 @@
+[INFO] Moving into a directory: /
+[INFO] Printing files and sub folders in directory: /
+[INFO] Adding Sub-Directory: a
+[INFO] Adding file: b.txt of size: 14848514 to directory: /
+[INFO] Adding file: c.dat of size: 8504156 to directory: /
+[INFO] Adding Sub-Directory: d
+[INFO] Moving into a directory: a
+[INFO] Printing files and sub folders in directory: a
+[INFO] Adding Sub-Directory: e
+[INFO] Adding file: f of size: 29116 to directory: a
+[INFO] Adding file: g of size: 2557 to directory: a
+[INFO] Adding file: h.lst of size: 62596 to directory: a
+[INFO] Moving into a directory: e
+[INFO] Printing files and sub folders in directory: e
+[INFO] Adding file: i of size: 584 to directory: e
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: d
+[INFO] Printing files and sub folders in directory: d
+[INFO] Adding file: j of size: 4060174 to directory: d
+[INFO] Adding file: d.log of size: 8033020 to directory: d
+[INFO] Adding file: d.ext of size: 5626152 to directory: d
+[INFO] Adding file: k of size: 7214296 to directory: d
+
+- / (dir)
+    - b.txt (file, size=14848514)
+    - c.dat (file, size=8504156)
+    - a (dir)
+        - f (file, size=29116)
+        - g (file, size=2557)
+        - h.lst (file, size=62596)
+        - e (dir)
+            - i (file, size=584)
+    - d (dir)
+        - j (file, size=4060174)
+        - d.log (file, size=8033020)
+        - d.ext (file, size=5626152)
+        - k (file, size=7214296)
+
+--------------------------------------- Printing directories that match --------------------------------------
+- a (dir)
+    - f (file, size=29116)
+    - g (file, size=2557)
+    - h.lst (file, size=62596)
+    - e (dir)
+        - i (file, size=584)
+
+- e (dir)
+    - i (file, size=584)
+
+Size of all directories that meet criteria is: 95437
+--------------------------------------- Printing directories that can be deleted --------------------------------------
+Must free at least: 8381165 bytes
+Size: 24933642
+- d (dir)
+    - j (file, size=4060174)
+    - d.log (file, size=8033020)
+    - d.ext (file, size=5626152)
+    - k (file, size=7214296)
+
+Size: 48381165
+- / (dir)
+    - b.txt (file, size=14848514)
+    - c.dat (file, size=8504156)
+    - a (dir)
+        - f (file, size=29116)
+        - g (file, size=2557)
+        - h.lst (file, size=62596)
+        - e (dir)
+            - i (file, size=584)
+    - d (dir)
+        - j (file, size=4060174)
+        - d.log (file, size=8033020)
+        - d.ext (file, size=5626152)
+        - k (file, size=7214296)
+
+Smallest deletable directory is: - d (dir)
+    - j (file, size=4060174)
+    - d.log (file, size=8033020)
+    - d.ext (file, size=5626152)
+    - k (file, size=7214296)
+ with a size of 24933642
+
+[INFO] Moving into a directory: /
+[INFO] Printing files and sub folders in directory: /
+[INFO] Adding Sub-Directory: cmvqf
+[INFO] Adding Sub-Directory: dcgbjvj
+[INFO] Adding file: gszshjwr.lrs of size: 57426 to directory: /
+[INFO] Adding Sub-Directory: nsgms
+[INFO] Adding file: rjqns.prb of size: 124423 to directory: /
+[INFO] Adding Sub-Directory: wqvv
+[INFO] Moving into a directory: cmvqf
+[INFO] Printing files and sub folders in directory: cmvqf
+[INFO] Adding file: cnsb.cmm of size: 6852 to directory: cmvqf
+[INFO] Adding file: cwqbmjb.vpl of size: 319810 to directory: cmvqf
+[INFO] Adding Sub-Directory: dcgbjvj
+[INFO] Adding Sub-Directory: ddnclwtd
+[INFO] Adding Sub-Directory: gccnrw
+[INFO] Adding Sub-Directory: qwzphd
+[INFO] Adding Sub-Directory: rvqwnjv
+[INFO] Adding Sub-Directory: ssmf
+[INFO] Adding file: trttdw.jsn of size: 107040 to directory: cmvqf
+[INFO] Adding Sub-Directory: wcn
+[INFO] Adding file: wqvv of size: 296426 to directory: cmvqf
+[INFO] Moving into a directory: dcgbjvj
+[INFO] Printing files and sub folders in directory: dcgbjvj
+[INFO] Adding Sub-Directory: dcgbjvj
+[INFO] Adding Sub-Directory: rlvcvj
+[INFO] Moving into a directory: dcgbjvj
+[INFO] Printing files and sub folders in directory: dcgbjvj
+[INFO] Adding file: gsqcwfmz.hlm of size: 214674 to directory: dcgbjvj
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: rlvcvj
+[INFO] Printing files and sub folders in directory: rlvcvj
+[INFO] Adding file: cnsb.cmm of size: 151752 to directory: rlvcvj
+[INFO] Adding file: sjlwgf.mqn of size: 256829 to directory: rlvcvj
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ddnclwtd
+[INFO] Printing files and sub folders in directory: ddnclwtd
+[INFO] Adding file: fpwznlp.zsf of size: 177893 to directory: ddnclwtd
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: gccnrw
+[INFO] Printing files and sub folders in directory: gccnrw
+[INFO] Adding Sub-Directory: mbfw
+[INFO] Adding Sub-Directory: rlvcvj
+[INFO] Adding Sub-Directory: wsrdh
+[INFO] Adding Sub-Directory: wvq
+[INFO] Adding Sub-Directory: zgpdl
+[INFO] Moving into a directory: mbfw
+[INFO] Printing files and sub folders in directory: mbfw
+[INFO] Adding Sub-Directory: dcgbjvj
+[INFO] Adding Sub-Directory: mhnjvrl
+[INFO] Adding file: ptrv of size: 271166 to directory: mbfw
+[INFO] Moving into a directory: dcgbjvj
+[INFO] Printing files and sub folders in directory: dcgbjvj
+[INFO] Adding Sub-Directory: npjmq
+[INFO] Moving into a directory: npjmq
+[INFO] Printing files and sub folders in directory: npjmq
+[INFO] Adding file: fpwznlp.zsf of size: 26712 to directory: npjmq
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: mhnjvrl
+[INFO] Printing files and sub folders in directory: mhnjvrl
+[INFO] Adding file: mgrdrbl.lqg of size: 190094 to directory: mhnjvrl
+[INFO] Adding file: zgczmvng of size: 199191 to directory: mhnjvrl
+[INFO] Adding file: zgczmvng.rld of size: 22082 to directory: mhnjvrl
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: rlvcvj
+[INFO] Printing files and sub folders in directory: rlvcvj
+[INFO] Adding file: mbjprm of size: 244617 to directory: rlvcvj
+[INFO] Adding file: wpgglg of size: 264738 to directory: rlvcvj
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: wsrdh
+[INFO] Printing files and sub folders in directory: wsrdh
+[INFO] Adding Sub-Directory: mgmp
+[INFO] Adding file: vnqmnjpb.bnc of size: 111558 to directory: wsrdh
+[INFO] Moving into a directory: mgmp
+[INFO] Printing files and sub folders in directory: mgmp
+[INFO] Adding Sub-Directory: whzjb
+[INFO] Moving into a directory: whzjb
+[INFO] Printing files and sub folders in directory: whzjb
+[INFO] Adding file: mgrdrbl.lqg of size: 235442 to directory: whzjb
+[INFO] Adding file: sphms.tzw of size: 63642 to directory: whzjb
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: wvq
+[INFO] Printing files and sub folders in directory: wvq
+[INFO] Adding file: dcgbjvj.rwc of size: 23240 to directory: wvq
+[INFO] Adding file: hcb of size: 79015 to directory: wvq
+[INFO] Adding file: jjc of size: 155120 to directory: wvq
+[INFO] Adding Sub-Directory: wqvv
+[INFO] Adding file: wqvv.cwp of size: 207559 to directory: wvq
+[INFO] Moving into a directory: wqvv
+[INFO] Printing files and sub folders in directory: wqvv
+[INFO] Adding file: cnsb.cmm of size: 130961 to directory: wqvv
+[INFO] Adding Sub-Directory: fcl
+[INFO] Adding file: hgbr.snf of size: 208524 to directory: wqvv
+[INFO] Adding Sub-Directory: lzs
+[INFO] Adding file: mgrdrbl.lqg of size: 14868 to directory: wqvv
+[INFO] Adding Sub-Directory: sqpgtrn
+[INFO] Adding file: zgczmvng of size: 143653 to directory: wqvv
+[INFO] Moving into a directory: fcl
+[INFO] Printing files and sub folders in directory: fcl
+[INFO] Adding Sub-Directory: jfjgnz
+[INFO] Moving into a directory: jfjgnz
+[INFO] Printing files and sub folders in directory: jfjgnz
+[INFO] Adding file: trttdw.jsn of size: 225416 to directory: jfjgnz
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: lzs
+[INFO] Printing files and sub folders in directory: lzs
+[INFO] Adding file: vtcmf of size: 111949 to directory: lzs
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: sqpgtrn
+[INFO] Printing files and sub folders in directory: sqpgtrn
+[INFO] Adding file: cnsb.cmm of size: 289955 to directory: sqpgtrn
+[INFO] Adding Sub-Directory: crstpjjv
+[INFO] Adding Sub-Directory: dcgbjvj
+[INFO] Adding file: nwv.blw of size: 6334 to directory: sqpgtrn
+[INFO] Adding Sub-Directory: vpnhcsfr
+[INFO] Moving into a directory: crstpjjv
+[INFO] Printing files and sub folders in directory: crstpjjv
+[INFO] Adding file: jtcndb.wht of size: 144739 to directory: crstpjjv
+[INFO] Adding file: qdccst.dsg of size: 16215 to directory: crstpjjv
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: dcgbjvj
+[INFO] Printing files and sub folders in directory: dcgbjvj
+[INFO] Adding Sub-Directory: bnzmws
+[INFO] Adding Sub-Directory: crstpjjv
+[INFO] Adding file: fjmbgql of size: 82495 to directory: dcgbjvj
+[INFO] Adding file: hlcwhnf of size: 248051 to directory: dcgbjvj
+[INFO] Adding file: qwzjc.sth of size: 145452 to directory: dcgbjvj
+[INFO] Adding Sub-Directory: spmr
+[INFO] Adding file: wqvv of size: 268967 to directory: dcgbjvj
+[INFO] Adding file: wqvv.vdm of size: 23371 to directory: dcgbjvj
+[INFO] Adding Sub-Directory: zgczmvng
+[INFO] Moving into a directory: bnzmws
+[INFO] Printing files and sub folders in directory: bnzmws
+[INFO] Adding Sub-Directory: dcgbjvj
+[INFO] Adding Sub-Directory: dgbtqdn
+[INFO] Adding file: pvgrqjf.ftq of size: 119626 to directory: bnzmws
+[INFO] Adding file: tscrpt.szt of size: 204879 to directory: bnzmws
+[INFO] Moving into a directory: dcgbjvj
+[INFO] Printing files and sub folders in directory: dcgbjvj
+[INFO] Adding file: msf.qhf of size: 152171 to directory: dcgbjvj
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: dgbtqdn
+[INFO] Printing files and sub folders in directory: dgbtqdn
+[INFO] Adding file: fpwznlp.zsf of size: 64965 to directory: dgbtqdn
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: crstpjjv
+[INFO] Printing files and sub folders in directory: crstpjjv
+[INFO] Adding file: mgrdrbl.lqg of size: 97804 to directory: crstpjjv
+[INFO] Adding file: trttdw.jsn of size: 88837 to directory: crstpjjv
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: spmr
+[INFO] Printing files and sub folders in directory: spmr
+[INFO] Adding file: dcgbjvj of size: 302501 to directory: spmr
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: zgczmvng
+[INFO] Printing files and sub folders in directory: zgczmvng
+[INFO] Adding Sub-Directory: crstpjjv
+[INFO] Adding file: prznqbn of size: 187957 to directory: zgczmvng
+[INFO] Moving into a directory: crstpjjv
+[INFO] Printing files and sub folders in directory: crstpjjv
+[INFO] Adding file: jlb.nvs of size: 218211 to directory: crstpjjv
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: vpnhcsfr
+[INFO] Printing files and sub folders in directory: vpnhcsfr
+[INFO] Adding file: qtcdjgz of size: 220411 to directory: vpnhcsfr
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: zgpdl
+[INFO] Printing files and sub folders in directory: zgpdl
+[INFO] Adding Sub-Directory: llstdpv
+[INFO] Adding Sub-Directory: rtftjm
+[INFO] Moving into a directory: llstdpv
+[INFO] Printing files and sub folders in directory: llstdpv
+[INFO] Adding file: qqccwwjf.mbw of size: 318556 to directory: llstdpv
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: rtftjm
+[INFO] Printing files and sub folders in directory: rtftjm
+[INFO] Adding file: fwphh.zrz of size: 117705 to directory: rtftjm
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: qwzphd
+[INFO] Printing files and sub folders in directory: qwzphd
+[INFO] Adding Sub-Directory: crstpjjv
+[INFO] Adding Sub-Directory: fvfmlgql
+[INFO] Adding Sub-Directory: ldbts
+[INFO] Adding Sub-Directory: ljtcgz
+[INFO] Adding Sub-Directory: llvhbzpz
+[INFO] Adding Sub-Directory: plcbgmwc
+[INFO] Adding Sub-Directory: pwp
+[INFO] Adding Sub-Directory: qjstb
+[INFO] Adding file: wmc of size: 58078 to directory: qwzphd
+[INFO] Moving into a directory: crstpjjv
+[INFO] Printing files and sub folders in directory: crstpjjv
+[INFO] Adding file: sbf.vcc of size: 171196 to directory: crstpjjv
+[INFO] Adding file: trttdw.jsn of size: 320608 to directory: crstpjjv
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: fvfmlgql
+[INFO] Printing files and sub folders in directory: fvfmlgql
+[INFO] Adding Sub-Directory: hfdnml
+[INFO] Adding file: trttdw.jsn of size: 298497 to directory: fvfmlgql
+[INFO] Moving into a directory: hfdnml
+[INFO] Printing files and sub folders in directory: hfdnml
+[INFO] Adding file: crstpjjv.vrr of size: 43441 to directory: hfdnml
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ldbts
+[INFO] Printing files and sub folders in directory: ldbts
+[INFO] Adding file: crstpjjv of size: 211746 to directory: ldbts
+[INFO] Adding file: rcw.rcl of size: 224627 to directory: ldbts
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ljtcgz
+[INFO] Printing files and sub folders in directory: ljtcgz
+[INFO] Adding Sub-Directory: dfrnh
+[INFO] Adding file: fmbpcdbd.vrl of size: 179456 to directory: ljtcgz
+[INFO] Adding file: fpwznlp.zsf of size: 141254 to directory: ljtcgz
+[INFO] Adding file: pcmqcl.jmz of size: 86291 to directory: ljtcgz
+[INFO] Adding file: pzvg.qcg of size: 266763 to directory: ljtcgz
+[INFO] Adding Sub-Directory: zjjbjn
+[INFO] Moving into a directory: dfrnh
+[INFO] Printing files and sub folders in directory: dfrnh
+[INFO] Adding Sub-Directory: crstpjjv
+[INFO] Moving into a directory: crstpjjv
+[INFO] Printing files and sub folders in directory: crstpjjv
+[INFO] Adding file: wqvv.hhn of size: 220983 to directory: crstpjjv
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: zjjbjn
+[INFO] Printing files and sub folders in directory: zjjbjn
+[INFO] Adding file: nwcbbv.mbb of size: 215454 to directory: zjjbjn
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: llvhbzpz
+[INFO] Printing files and sub folders in directory: llvhbzpz
+[INFO] Adding file: cnsb.cmm of size: 206731 to directory: llvhbzpz
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: plcbgmwc
+[INFO] Printing files and sub folders in directory: plcbgmwc
+[INFO] Adding file: fpwznlp.zsf of size: 223141 to directory: plcbgmwc
+[INFO] Adding Sub-Directory: hplrsb
+[INFO] Adding file: jhdwr.jfc of size: 309856 to directory: plcbgmwc
+[INFO] Adding Sub-Directory: mhmnmd
+[INFO] Adding file: mmfzhj.zvg of size: 218364 to directory: plcbgmwc
+[INFO] Adding Sub-Directory: nwnj
+[INFO] Adding file: trttdw.jsn of size: 316432 to directory: plcbgmwc
+[INFO] Adding Sub-Directory: vrgj
+[INFO] Moving into a directory: hplrsb
+[INFO] Printing files and sub folders in directory: hplrsb
+[INFO] Adding Sub-Directory: lbscwd
+[INFO] Adding Sub-Directory: lsffhj
+[INFO] Adding Sub-Directory: mlfp
+[INFO] Adding Sub-Directory: pqfbf
+[INFO] Adding Sub-Directory: tcvjzzhj
+[INFO] Adding Sub-Directory: wqvv
+[INFO] Moving into a directory: lbscwd
+[INFO] Printing files and sub folders in directory: lbscwd
+[INFO] Adding file: wvblz.hmp of size: 157261 to directory: lbscwd
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: lsffhj
+[INFO] Printing files and sub folders in directory: lsffhj
+[INFO] Adding file: crstpjjv of size: 171621 to directory: lsffhj
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: mlfp
+[INFO] Printing files and sub folders in directory: mlfp
+[INFO] Adding file: vvjzm.pzt of size: 80994 to directory: mlfp
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: pqfbf
+[INFO] Printing files and sub folders in directory: pqfbf
+[INFO] Adding file: ltd.zbw of size: 67861 to directory: pqfbf
+[INFO] Adding Sub-Directory: nnsg
+[INFO] Adding Sub-Directory: nwcl
+[INFO] Adding file: rlvcvj of size: 107828 to directory: pqfbf
+[INFO] Adding file: trttdw.jsn of size: 160956 to directory: pqfbf
+[INFO] Moving into a directory: nnsg
+[INFO] Printing files and sub folders in directory: nnsg
+[INFO] Adding file: tzcrqv.rsr of size: 18252 to directory: nnsg
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: nwcl
+[INFO] Printing files and sub folders in directory: nwcl
+[INFO] Adding file: cnsb.cmm of size: 38378 to directory: nwcl
+[INFO] Adding file: dqwpwzz of size: 217283 to directory: nwcl
+[INFO] Adding file: mgrdrbl.lqg of size: 220081 to directory: nwcl
+[INFO] Adding file: sbf.vcc of size: 28106 to directory: nwcl
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: tcvjzzhj
+[INFO] Printing files and sub folders in directory: tcvjzzhj
+[INFO] Adding file: dhv of size: 152965 to directory: tcvjzzhj
+[INFO] Adding file: gvtdrj.rft of size: 316034 to directory: tcvjzzhj
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: wqvv
+[INFO] Printing files and sub folders in directory: wqvv
+[INFO] Adding file: mfzf.nfn of size: 281962 to directory: wqvv
+[INFO] Adding file: rlvcvj.zwf of size: 95321 to directory: wqvv
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: mhmnmd
+[INFO] Printing files and sub folders in directory: mhmnmd
+[INFO] Adding file: cnsb.cmm of size: 213145 to directory: mhmnmd
+[INFO] Adding Sub-Directory: hnzcz
+[INFO] Adding file: mnwhg of size: 273060 to directory: mhmnmd
+[INFO] Adding Sub-Directory: qcwdvq
+[INFO] Adding file: trttdw.jsn of size: 318596 to directory: mhmnmd
+[INFO] Moving into a directory: hnzcz
+[INFO] Printing files and sub folders in directory: hnzcz
+[INFO] Adding file: fpwznlp.zsf of size: 177795 to directory: hnzcz
+[INFO] Adding file: rlvcvj of size: 188898 to directory: hnzcz
+[INFO] Adding file: wqvv.jsv of size: 317234 to directory: hnzcz
+[INFO] Adding Sub-Directory: zgczmvng
+[INFO] Moving into a directory: zgczmvng
+[INFO] Printing files and sub folders in directory: zgczmvng
+[INFO] Adding Sub-Directory: qzfw
+[INFO] Moving into a directory: qzfw
+[INFO] Printing files and sub folders in directory: qzfw
+[INFO] Adding file: rlvcvj of size: 134097 to directory: qzfw
+[INFO] Adding file: sbf.vcc of size: 73145 to directory: qzfw
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: qcwdvq
+[INFO] Printing files and sub folders in directory: qcwdvq
+[INFO] Adding file: wqvv of size: 83084 to directory: qcwdvq
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: nwnj
+[INFO] Printing files and sub folders in directory: nwnj
+[INFO] Adding file: hgpmqh of size: 84366 to directory: nwnj
+[INFO] Adding file: mgrdrbl.lqg of size: 317603 to directory: nwnj
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: vrgj
+[INFO] Printing files and sub folders in directory: vrgj
+[INFO] Adding file: fpwznlp.zsf of size: 136595 to directory: vrgj
+[INFO] Adding file: sbf.vcc of size: 78517 to directory: vrgj
+[INFO] Adding Sub-Directory: wqvv
+[INFO] Adding file: wqvv.cpl of size: 242465 to directory: vrgj
+[INFO] Adding Sub-Directory: zln
+[INFO] Moving into a directory: wqvv
+[INFO] Printing files and sub folders in directory: wqvv
+[INFO] Adding file: sbf.vcc of size: 3191 to directory: wqvv
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: zln
+[INFO] Printing files and sub folders in directory: zln
+[INFO] Adding Sub-Directory: crstpjjv
+[INFO] Moving into a directory: crstpjjv
+[INFO] Printing files and sub folders in directory: crstpjjv
+[INFO] Adding file: btqgw of size: 86511 to directory: crstpjjv
+[INFO] Adding file: rcstn.jpj of size: 17597 to directory: crstpjjv
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: pwp
+[INFO] Printing files and sub folders in directory: pwp
+[INFO] Adding Sub-Directory: crstpjjv
+[INFO] Adding Sub-Directory: jlqdbv
+[INFO] Adding file: mgrdrbl.lqg of size: 290915 to directory: pwp
+[INFO] Adding file: nfgj of size: 219909 to directory: pwp
+[INFO] Adding file: sbf.vcc of size: 207313 to directory: pwp
+[INFO] Adding Sub-Directory: zpjf
+[INFO] Moving into a directory: crstpjjv
+[INFO] Printing files and sub folders in directory: crstpjjv
+[INFO] Adding file: crnfs.fgn of size: 298992 to directory: crstpjjv
+[INFO] Adding file: jqh of size: 172934 to directory: crstpjjv
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: jlqdbv
+[INFO] Printing files and sub folders in directory: jlqdbv
+[INFO] Adding file: zgczmvng of size: 300436 to directory: jlqdbv
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: zpjf
+[INFO] Printing files and sub folders in directory: zpjf
+[INFO] Adding file: sbf.vcc of size: 78904 to directory: zpjf
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: qjstb
+[INFO] Printing files and sub folders in directory: qjstb
+[INFO] Adding Sub-Directory: dtb
+[INFO] Adding Sub-Directory: gcd
+[INFO] Adding Sub-Directory: gmcnhh
+[INFO] Adding file: htm.lzc of size: 85552 to directory: qjstb
+[INFO] Adding file: mzb.fvt of size: 219773 to directory: qjstb
+[INFO] Adding file: schz of size: 208419 to directory: qjstb
+[INFO] Moving into a directory: dtb
+[INFO] Printing files and sub folders in directory: dtb
+[INFO] Adding file: crstpjjv.zlb of size: 167147 to directory: dtb
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: gcd
+[INFO] Printing files and sub folders in directory: gcd
+[INFO] Adding file: rlvcvj of size: 239595 to directory: gcd
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: gmcnhh
+[INFO] Printing files and sub folders in directory: gmcnhh
+[INFO] Adding file: fpwznlp.zsf of size: 111653 to directory: gmcnhh
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: rvqwnjv
+[INFO] Printing files and sub folders in directory: rvqwnjv
+[INFO] Adding file: cnsb.cmm of size: 59215 to directory: rvqwnjv
+[INFO] Adding file: jtlcr.rlm of size: 37164 to directory: rvqwnjv
+[INFO] Adding Sub-Directory: mnc
+[INFO] Moving into a directory: mnc
+[INFO] Printing files and sub folders in directory: mnc
+[INFO] Adding file: cnsb.cmm of size: 32159 to directory: mnc
+[INFO] Adding file: trttdw.jsn of size: 76204 to directory: mnc
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ssmf
+[INFO] Printing files and sub folders in directory: ssmf
+[INFO] Adding Sub-Directory: fvcd
+[INFO] Adding file: hpdzv of size: 127458 to directory: ssmf
+[INFO] Adding Sub-Directory: jcg
+[INFO] Adding file: jtjp.mjj of size: 288242 to directory: ssmf
+[INFO] Adding Sub-Directory: jzp
+[INFO] Adding file: mgrdrbl.lqg of size: 268857 to directory: ssmf
+[INFO] Adding file: nhfmbvc of size: 223968 to directory: ssmf
+[INFO] Adding Sub-Directory: wqvv
+[INFO] Adding file: wqvv.fnl of size: 235806 to directory: ssmf
+[INFO] Moving into a directory: fvcd
+[INFO] Printing files and sub folders in directory: fvcd
+[INFO] Adding file: wcs.bdp of size: 26479 to directory: fvcd
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: jcg
+[INFO] Printing files and sub folders in directory: jcg
+[INFO] Adding Sub-Directory: nsvtrs
+[INFO] Adding Sub-Directory: zgczmvng
+[INFO] Moving into a directory: nsvtrs
+[INFO] Printing files and sub folders in directory: nsvtrs
+[INFO] Adding Sub-Directory: dcgbjvj
+[INFO] Moving into a directory: dcgbjvj
+[INFO] Printing files and sub folders in directory: dcgbjvj
+[INFO] Adding file: trttdw.jsn of size: 36633 to directory: dcgbjvj
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: zgczmvng
+[INFO] Printing files and sub folders in directory: zgczmvng
+[INFO] Adding file: vszcg.jdb of size: 221381 to directory: zgczmvng
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: jzp
+[INFO] Printing files and sub folders in directory: jzp
+[INFO] Adding file: dcgbjvj of size: 1957 to directory: jzp
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: wqvv
+[INFO] Printing files and sub folders in directory: wqvv
+[INFO] Adding file: wqvv.pvs of size: 9330 to directory: wqvv
+[INFO] Adding file: ztlh of size: 46963 to directory: wqvv
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: wcn
+[INFO] Printing files and sub folders in directory: wcn
+[INFO] Adding Sub-Directory: cqdzdnq
+[INFO] Adding Sub-Directory: cszzg
+[INFO] Adding Sub-Directory: fqmcr
+[INFO] Adding file: pjfdtvzf.rdf of size: 123361 to directory: wcn
+[INFO] Adding Sub-Directory: rmrg
+[INFO] Adding Sub-Directory: rsfddzs
+[INFO] Adding Sub-Directory: vqrpdwv
+[INFO] Adding Sub-Directory: wpgddhdq
+[INFO] Adding Sub-Directory: wpgv
+[INFO] Moving into a directory: cqdzdnq
+[INFO] Printing files and sub folders in directory: cqdzdnq
+[INFO] Adding Sub-Directory: dqhpbsg
+[INFO] Adding Sub-Directory: qlq
+[INFO] Adding Sub-Directory: vfwhcpwl
+[INFO] Adding Sub-Directory: wqvv
+[INFO] Adding Sub-Directory: zpbbspcv
+[INFO] Moving into a directory: dqhpbsg
+[INFO] Printing files and sub folders in directory: dqhpbsg
+[INFO] Adding file: glbfq.vpw of size: 245289 to directory: dqhpbsg
+[INFO] Adding file: vsvvzbns.ftf of size: 51357 to directory: dqhpbsg
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: qlq
+[INFO] Printing files and sub folders in directory: qlq
+[INFO] Adding file: mqgnjht.vqq of size: 210318 to directory: qlq
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: vfwhcpwl
+[INFO] Printing files and sub folders in directory: vfwhcpwl
+[INFO] Adding file: mmpzcjmp.znn of size: 109892 to directory: vfwhcpwl
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: wqvv
+[INFO] Printing files and sub folders in directory: wqvv
+[INFO] Adding Sub-Directory: chwdzfsg
+[INFO] Adding Sub-Directory: crstpjjv
+[INFO] Adding Sub-Directory: dcgbjvj
+[INFO] Adding Sub-Directory: rllbccjt
+[INFO] Adding Sub-Directory: rlvcvj
+[INFO] Moving into a directory: chwdzfsg
+[INFO] Printing files and sub folders in directory: chwdzfsg
+[INFO] Adding file: fpwznlp.zsf of size: 108951 to directory: chwdzfsg
+[INFO] Adding Sub-Directory: vgc
+[INFO] Moving into a directory: vgc
+[INFO] Printing files and sub folders in directory: vgc
+[INFO] Adding file: fpwznlp.zsf of size: 273011 to directory: vgc
+[INFO] Adding file: ntc.ghp of size: 248078 to directory: vgc
+[INFO] Adding file: thgbb.mfn of size: 77305 to directory: vgc
+[INFO] Adding file: trttdw.jsn of size: 73383 to directory: vgc
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: crstpjjv
+[INFO] Printing files and sub folders in directory: crstpjjv
+[INFO] Adding Sub-Directory: qmswb
+[INFO] Moving into a directory: qmswb
+[INFO] Printing files and sub folders in directory: qmswb
+[INFO] Adding file: trttdw.jsn of size: 68252 to directory: qmswb
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: dcgbjvj
+[INFO] Printing files and sub folders in directory: dcgbjvj
+[INFO] Adding file: qtcs.llc of size: 111 to directory: dcgbjvj
+[INFO] Adding Sub-Directory: szzthsmj
+[INFO] Moving into a directory: szzthsmj
+[INFO] Printing files and sub folders in directory: szzthsmj
+[INFO] Adding Sub-Directory: qhztdv
+[INFO] Adding Sub-Directory: wqvv
+[INFO] Adding Sub-Directory: zmqrftlm
+[INFO] Moving into a directory: qhztdv
+[INFO] Printing files and sub folders in directory: qhztdv
+[INFO] Adding file: qrdsrrb.chw of size: 138433 to directory: qhztdv
+[INFO] Adding Sub-Directory: rlvcvj
+[INFO] Moving into a directory: rlvcvj
+[INFO] Printing files and sub folders in directory: rlvcvj
+[INFO] Adding Sub-Directory: jfcm
+[INFO] Adding Sub-Directory: lzf
+[INFO] Adding file: rlvcvj.nmb of size: 249984 to directory: rlvcvj
+[INFO] Adding Sub-Directory: twrs
+[INFO] Moving into a directory: jfcm
+[INFO] Printing files and sub folders in directory: jfcm
+[INFO] Adding file: dtrc.wsm of size: 117884 to directory: jfcm
+[INFO] Adding file: rlvcvj.mhd of size: 237577 to directory: jfcm
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: lzf
+[INFO] Printing files and sub folders in directory: lzf
+[INFO] Adding file: nrc.clh of size: 60342 to directory: lzf
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: twrs
+[INFO] Printing files and sub folders in directory: twrs
+[INFO] Adding file: cnsb.cmm of size: 97201 to directory: twrs
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: wqvv
+[INFO] Printing files and sub folders in directory: wqvv
+[INFO] Adding file: gcqzjf.gcb of size: 73047 to directory: wqvv
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: zmqrftlm
+[INFO] Printing files and sub folders in directory: zmqrftlm
+[INFO] Adding Sub-Directory: ltd
+[INFO] Moving into a directory: ltd
+[INFO] Printing files and sub folders in directory: ltd
+[INFO] Adding file: fpwznlp.zsf of size: 120673 to directory: ltd
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: rllbccjt
+[INFO] Printing files and sub folders in directory: rllbccjt
+[INFO] Adding file: cnsb.cmm of size: 299611 to directory: rllbccjt
+[INFO] Adding Sub-Directory: lnfvlqh
+[INFO] Adding file: qwh of size: 36418 to directory: rllbccjt
+[INFO] Adding Sub-Directory: rlvcvj
+[INFO] Adding file: trttdw.jsn of size: 255907 to directory: rllbccjt
+[INFO] Adding Sub-Directory: zqvzpv
+[INFO] Moving into a directory: lnfvlqh
+[INFO] Printing files and sub folders in directory: lnfvlqh
+[INFO] Adding file: fpwznlp.zsf of size: 195010 to directory: lnfvlqh
+[INFO] Adding file: llrznf.rwc of size: 72496 to directory: lnfvlqh
+[INFO] Adding Sub-Directory: lvgzb
+[INFO] Adding file: mgrdrbl.lqg of size: 53126 to directory: lnfvlqh
+[INFO] Adding file: mnrqtn of size: 90191 to directory: lnfvlqh
+[INFO] Adding file: nthdm.crh of size: 310156 to directory: lnfvlqh
+[INFO] Moving into a directory: lvgzb
+[INFO] Printing files and sub folders in directory: lvgzb
+[INFO] Adding file: mgrdrbl.lqg of size: 209837 to directory: lvgzb
+[INFO] Adding file: rwhgmd of size: 210074 to directory: lvgzb
+[INFO] Adding file: sbf.vcc of size: 70338 to directory: lvgzb
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: rlvcvj
+[INFO] Printing files and sub folders in directory: rlvcvj
+[INFO] Adding file: dcgbjvj of size: 252080 to directory: rlvcvj
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: zqvzpv
+[INFO] Printing files and sub folders in directory: zqvzpv
+[INFO] Adding file: zpt.lbc of size: 249229 to directory: zqvzpv
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: rlvcvj
+[INFO] Printing files and sub folders in directory: rlvcvj
+[INFO] Adding Sub-Directory: dcgbjvj
+[INFO] Adding Sub-Directory: fdz
+[INFO] Moving into a directory: dcgbjvj
+[INFO] Printing files and sub folders in directory: dcgbjvj
+[INFO] Adding file: trttdw.jsn of size: 191363 to directory: dcgbjvj
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: fdz
+[INFO] Printing files and sub folders in directory: fdz
+[INFO] Adding file: bqsdfc.rcn of size: 291107 to directory: fdz
+[INFO] Adding Sub-Directory: dcgbjvj
+[INFO] Adding file: fpwznlp.zsf of size: 64333 to directory: fdz
+[INFO] Adding Sub-Directory: lfb
+[INFO] Adding file: mgrdrbl.lqg of size: 280608 to directory: fdz
+[INFO] Adding file: trttdw.jsn of size: 125554 to directory: fdz
+[INFO] Moving into a directory: dcgbjvj
+[INFO] Printing files and sub folders in directory: dcgbjvj
+[INFO] Adding file: qwjhpdh of size: 169326 to directory: dcgbjvj
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: lfb
+[INFO] Printing files and sub folders in directory: lfb
+[INFO] Adding file: zqfnjtr.clt of size: 35299 to directory: lfb
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: zpbbspcv
+[INFO] Printing files and sub folders in directory: zpbbspcv
+[INFO] Adding file: mgrdrbl.lqg of size: 54549 to directory: zpbbspcv
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: cszzg
+[INFO] Printing files and sub folders in directory: cszzg
+[INFO] Adding Sub-Directory: wqvv
+[INFO] Moving into a directory: wqvv
+[INFO] Printing files and sub folders in directory: wqvv
+[INFO] Adding file: crstpjjv.jtq of size: 136042 to directory: wqvv
+[INFO] Adding file: trttdw.jsn of size: 10879 to directory: wqvv
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: fqmcr
+[INFO] Printing files and sub folders in directory: fqmcr
+[INFO] Adding file: bchvt.dvw of size: 188798 to directory: fqmcr
+[INFO] Adding file: fpwznlp.zsf of size: 276819 to directory: fqmcr
+[INFO] Adding Sub-Directory: gdr
+[INFO] Adding Sub-Directory: rlvcvj
+[INFO] Adding file: zgczmvng.fqs of size: 5623 to directory: fqmcr
+[INFO] Adding file: znddbv of size: 158621 to directory: fqmcr
+[INFO] Moving into a directory: gdr
+[INFO] Printing files and sub folders in directory: gdr
+[INFO] Adding Sub-Directory: btg
+[INFO] Adding file: cnsb.cmm of size: 213096 to directory: gdr
+[INFO] Adding Sub-Directory: dhbcmzbz
+[INFO] Moving into a directory: btg
+[INFO] Printing files and sub folders in directory: btg
+[INFO] Adding Sub-Directory: hjm
+[INFO] Moving into a directory: hjm
+[INFO] Printing files and sub folders in directory: hjm
+[INFO] Adding file: zgczmvng.llz of size: 144774 to directory: hjm
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: dhbcmzbz
+[INFO] Printing files and sub folders in directory: dhbcmzbz
+[INFO] Adding file: rlvcvj of size: 148108 to directory: dhbcmzbz
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: rlvcvj
+[INFO] Printing files and sub folders in directory: rlvcvj
+[INFO] Adding file: qrdlf.pvg of size: 201103 to directory: rlvcvj
+[INFO] Adding file: vnpgw.wts of size: 272776 to directory: rlvcvj
+[INFO] Adding file: zgczmvng of size: 153826 to directory: rlvcvj
+[INFO] Adding file: zgczmvng.gsv of size: 290248 to directory: rlvcvj
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: rmrg
+[INFO] Printing files and sub folders in directory: rmrg
+[INFO] Adding Sub-Directory: jzb
+[INFO] Adding Sub-Directory: nsslsw
+[INFO] Adding Sub-Directory: rlvcvj
+[INFO] Moving into a directory: jzb
+[INFO] Printing files and sub folders in directory: jzb
+[INFO] Adding file: trttdw.jsn of size: 273968 to directory: jzb
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: nsslsw
+[INFO] Printing files and sub folders in directory: nsslsw
+[INFO] Adding file: sbf.vcc of size: 226370 to directory: nsslsw
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: rlvcvj
+[INFO] Printing files and sub folders in directory: rlvcvj
+[INFO] Adding file: gsbqswjj of size: 294706 to directory: rlvcvj
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: rsfddzs
+[INFO] Printing files and sub folders in directory: rsfddzs
+[INFO] Adding Sub-Directory: cphvtp
+[INFO] Adding file: crstpjjv of size: 205384 to directory: rsfddzs
+[INFO] Adding file: dfrjwrnz.bfl of size: 82103 to directory: rsfddzs
+[INFO] Adding Sub-Directory: fntvngpm
+[INFO] Adding file: pqtrvd of size: 297145 to directory: rsfddzs
+[INFO] Adding file: sbf.vcc of size: 237572 to directory: rsfddzs
+[INFO] Adding Sub-Directory: zgczmvng
+[INFO] Moving into a directory: cphvtp
+[INFO] Printing files and sub folders in directory: cphvtp
+[INFO] Adding Sub-Directory: phvc
+[INFO] Moving into a directory: phvc
+[INFO] Printing files and sub folders in directory: phvc
+[INFO] Adding file: dcgbjvj.lbj of size: 52239 to directory: phvc
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: fntvngpm
+[INFO] Printing files and sub folders in directory: fntvngpm
+[INFO] Adding file: mgrdrbl.lqg of size: 18297 to directory: fntvngpm
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: zgczmvng
+[INFO] Printing files and sub folders in directory: zgczmvng
+[INFO] Adding Sub-Directory: lzcwf
+[INFO] Adding Sub-Directory: pqmc
+[INFO] Adding file: tzqjcn of size: 179956 to directory: zgczmvng
+[INFO] Adding Sub-Directory: zgczmvng
+[INFO] Moving into a directory: lzcwf
+[INFO] Printing files and sub folders in directory: lzcwf
+[INFO] Adding file: cnsb.cmm of size: 284166 to directory: lzcwf
+[INFO] Adding file: jhmmn.qwn of size: 157214 to directory: lzcwf
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: pqmc
+[INFO] Printing files and sub folders in directory: pqmc
+[INFO] Adding file: nlvdqw.jmt of size: 215883 to directory: pqmc
+[INFO] Adding Sub-Directory: qjfr
+[INFO] Adding file: wqvv.fgg of size: 209722 to directory: pqmc
+[INFO] Moving into a directory: qjfr
+[INFO] Printing files and sub folders in directory: qjfr
+[INFO] Adding file: mgrdrbl.lqg of size: 53013 to directory: qjfr
+[INFO] Adding file: sgmnjc of size: 191236 to directory: qjfr
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: zgczmvng
+[INFO] Printing files and sub folders in directory: zgczmvng
+[INFO] Adding file: dglqpjs of size: 260649 to directory: zgczmvng
+[INFO] Adding file: mgrdrbl.lqg of size: 141213 to directory: zgczmvng
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: vqrpdwv
+[INFO] Printing files and sub folders in directory: vqrpdwv
+[INFO] Adding Sub-Directory: ftw
+[INFO] Adding file: mgrdrbl.lqg of size: 150895 to directory: vqrpdwv
+[INFO] Adding file: nbrzfl.dpf of size: 227641 to directory: vqrpdwv
+[INFO] Adding Sub-Directory: nwjdnpdd
+[INFO] Moving into a directory: ftw
+[INFO] Printing files and sub folders in directory: ftw
+[INFO] Adding file: dbsgvvbp of size: 99672 to directory: ftw
+[INFO] Adding Sub-Directory: dnzld
+[INFO] Adding file: mgrdrbl.lqg of size: 146730 to directory: ftw
+[INFO] Moving into a directory: dnzld
+[INFO] Printing files and sub folders in directory: dnzld
+[INFO] Adding file: bhjbfl.svw of size: 37598 to directory: dnzld
+[INFO] Adding Sub-Directory: qspsslt
+[INFO] Moving into a directory: qspsslt
+[INFO] Printing files and sub folders in directory: qspsslt
+[INFO] Adding Sub-Directory: vhgpwvf
+[INFO] Moving into a directory: vhgpwvf
+[INFO] Printing files and sub folders in directory: vhgpwvf
+[INFO] Adding file: ghgl of size: 146936 to directory: vhgpwvf
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: nwjdnpdd
+[INFO] Printing files and sub folders in directory: nwjdnpdd
+[INFO] Adding file: trttdw.jsn of size: 46000 to directory: nwjdnpdd
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: wpgddhdq
+[INFO] Printing files and sub folders in directory: wpgddhdq
+[INFO] Adding Sub-Directory: rqgf
+[INFO] Moving into a directory: rqgf
+[INFO] Printing files and sub folders in directory: rqgf
+[INFO] Adding file: rlvcvj.fmr of size: 197374 to directory: rqgf
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: wpgv
+[INFO] Printing files and sub folders in directory: wpgv
+[INFO] Adding Sub-Directory: fdh
+[INFO] Adding file: fpwznlp.zsf of size: 286086 to directory: wpgv
+[INFO] Adding Sub-Directory: pljq
+[INFO] Adding file: wqvv of size: 258062 to directory: wpgv
+[INFO] Adding Sub-Directory: zgczmvng
+[INFO] Moving into a directory: fdh
+[INFO] Printing files and sub folders in directory: fdh
+[INFO] Adding file: fpwznlp.zsf of size: 76173 to directory: fdh
+[INFO] Adding file: nczhtpcn of size: 230947 to directory: fdh
+[INFO] Adding file: rlvcvj of size: 62630 to directory: fdh
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: pljq
+[INFO] Printing files and sub folders in directory: pljq
+[INFO] Adding Sub-Directory: mzmm
+[INFO] Adding file: rjms.dcg of size: 41117 to directory: pljq
+[INFO] Moving into a directory: mzmm
+[INFO] Printing files and sub folders in directory: mzmm
+[INFO] Adding file: zgczmvng.ttl of size: 144202 to directory: mzmm
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: zgczmvng
+[INFO] Printing files and sub folders in directory: zgczmvng
+[INFO] Adding Sub-Directory: dncr
+[INFO] Adding Sub-Directory: mcdmfdp
+[INFO] Adding Sub-Directory: pgqglmj
+[INFO] Adding Sub-Directory: qldrmn
+[INFO] Moving into a directory: dncr
+[INFO] Printing files and sub folders in directory: dncr
+[INFO] Adding file: dcgbjvj of size: 198052 to directory: dncr
+[INFO] Adding Sub-Directory: dqdgft
+[INFO] Adding Sub-Directory: hpmwvnsr
+[INFO] Adding file: rlvcvj.qwg of size: 2829 to directory: dncr
+[INFO] Moving into a directory: dqdgft
+[INFO] Printing files and sub folders in directory: dqdgft
+[INFO] Adding Sub-Directory: fng
+[INFO] Adding Sub-Directory: nlsmb
+[INFO] Moving into a directory: fng
+[INFO] Printing files and sub folders in directory: fng
+[INFO] Adding file: zgczmvng of size: 198899 to directory: fng
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: nlsmb
+[INFO] Printing files and sub folders in directory: nlsmb
+[INFO] Adding file: gmr.vmg of size: 257121 to directory: nlsmb
+[INFO] Adding file: zsmd.bng of size: 9276 to directory: nlsmb
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: hpmwvnsr
+[INFO] Printing files and sub folders in directory: hpmwvnsr
+[INFO] Adding file: jjwqbwl.fpl of size: 241101 to directory: hpmwvnsr
+[INFO] Adding file: wqvv of size: 64151 to directory: hpmwvnsr
+[INFO] Adding file: zgczmvng of size: 196139 to directory: hpmwvnsr
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: mcdmfdp
+[INFO] Printing files and sub folders in directory: mcdmfdp
+[INFO] Adding file: lrgbhq of size: 276856 to directory: mcdmfdp
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: pgqglmj
+[INFO] Printing files and sub folders in directory: pgqglmj
+[INFO] Adding file: fpwznlp.zsf of size: 36476 to directory: pgqglmj
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: qldrmn
+[INFO] Printing files and sub folders in directory: qldrmn
+[INFO] Adding file: trttdw.jsn of size: 295686 to directory: qldrmn
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: dcgbjvj
+[INFO] Printing files and sub folders in directory: dcgbjvj
+[INFO] Adding Sub-Directory: brdfvd
+[INFO] Adding Sub-Directory: crstpjjv
+[INFO] Adding Sub-Directory: fzdqcgv
+[INFO] Adding Sub-Directory: fzw
+[INFO] Adding Sub-Directory: mrllpw
+[INFO] Adding Sub-Directory: wnh
+[INFO] Adding file: zgczmvng.jsm of size: 119561 to directory: dcgbjvj
+[INFO] Moving into a directory: brdfvd
+[INFO] Printing files and sub folders in directory: brdfvd
+[INFO] Adding file: mhdjc.mng of size: 272932 to directory: brdfvd
+[INFO] Adding Sub-Directory: wqvv
+[INFO] Adding file: zgczmvng.jwg of size: 91053 to directory: brdfvd
+[INFO] Moving into a directory: wqvv
+[INFO] Printing files and sub folders in directory: wqvv
+[INFO] Adding Sub-Directory: bpplph
+[INFO] Adding file: jhlqfn.sbs of size: 121367 to directory: wqvv
+[INFO] Adding file: nsgbt of size: 61760 to directory: wqvv
+[INFO] Adding file: sbf.vcc of size: 46653 to directory: wqvv
+[INFO] Adding file: trttdw.jsn of size: 16952 to directory: wqvv
+[INFO] Moving into a directory: bpplph
+[INFO] Printing files and sub folders in directory: bpplph
+[INFO] Adding file: rlvcvj of size: 1288 to directory: bpplph
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: crstpjjv
+[INFO] Printing files and sub folders in directory: crstpjjv
+[INFO] Adding file: sbf.vcc of size: 117722 to directory: crstpjjv
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: fzdqcgv
+[INFO] Printing files and sub folders in directory: fzdqcgv
+[INFO] Adding file: fpwznlp.zsf of size: 289819 to directory: fzdqcgv
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: fzw
+[INFO] Printing files and sub folders in directory: fzw
+[INFO] Adding Sub-Directory: dcgbjvj
+[INFO] Adding Sub-Directory: zsfqwdth
+[INFO] Adding Sub-Directory: zswdl
+[INFO] Moving into a directory: dcgbjvj
+[INFO] Printing files and sub folders in directory: dcgbjvj
+[INFO] Adding file: cnsb.cmm of size: 272427 to directory: dcgbjvj
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: zsfqwdth
+[INFO] Printing files and sub folders in directory: zsfqwdth
+[INFO] Adding Sub-Directory: bdbgtqjj
+[INFO] Adding Sub-Directory: hcgrqbhl
+[INFO] Moving into a directory: bdbgtqjj
+[INFO] Printing files and sub folders in directory: bdbgtqjj
+[INFO] Adding file: tnqmspdf.cwd of size: 318980 to directory: bdbgtqjj
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: hcgrqbhl
+[INFO] Printing files and sub folders in directory: hcgrqbhl
+[INFO] Adding file: fpwznlp.zsf of size: 135307 to directory: hcgrqbhl
+[INFO] Adding Sub-Directory: wqvv
+[INFO] Moving into a directory: wqvv
+[INFO] Printing files and sub folders in directory: wqvv
+[INFO] Adding file: ctz.wms of size: 68708 to directory: wqvv
+[INFO] Adding file: wlvdrfsw.qcj of size: 149578 to directory: wqvv
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: zswdl
+[INFO] Printing files and sub folders in directory: zswdl
+[INFO] Adding file: cnsb.cmm of size: 259754 to directory: zswdl
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: mrllpw
+[INFO] Printing files and sub folders in directory: mrllpw
+[INFO] Adding file: tvsm of size: 44007 to directory: mrllpw
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: wnh
+[INFO] Printing files and sub folders in directory: wnh
+[INFO] Adding Sub-Directory: mjnrmb
+[INFO] Adding file: wpdhq.hvp of size: 156515 to directory: wnh
+[INFO] Moving into a directory: mjnrmb
+[INFO] Printing files and sub folders in directory: mjnrmb
+[INFO] Adding file: fpwznlp.zsf of size: 293592 to directory: mjnrmb
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: nsgms
+[INFO] Printing files and sub folders in directory: nsgms
+[INFO] Adding Sub-Directory: dnhzj
+[INFO] Adding Sub-Directory: ptc
+[INFO] Adding Sub-Directory: tnfrr
+[INFO] Adding Sub-Directory: vjt
+[INFO] Adding file: zgczmvng.wmt of size: 32152 to directory: nsgms
+[INFO] Moving into a directory: dnhzj
+[INFO] Printing files and sub folders in directory: dnhzj
+[INFO] Adding file: flqbvrw.gmf of size: 281195 to directory: dnhzj
+[INFO] Adding file: jjsfrmc.drz of size: 177042 to directory: dnhzj
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ptc
+[INFO] Printing files and sub folders in directory: ptc
+[INFO] Adding Sub-Directory: gjvnrcln
+[INFO] Adding file: pccmrnn of size: 290797 to directory: ptc
+[INFO] Adding file: rzl.tjm of size: 59802 to directory: ptc
+[INFO] Adding Sub-Directory: zgczmvng
+[INFO] Moving into a directory: gjvnrcln
+[INFO] Printing files and sub folders in directory: gjvnrcln
+[INFO] Adding Sub-Directory: jph
+[INFO] Moving into a directory: jph
+[INFO] Printing files and sub folders in directory: jph
+[INFO] Adding file: hflqlwr.mph of size: 105648 to directory: jph
+[INFO] Adding file: hmlqsp of size: 158151 to directory: jph
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: zgczmvng
+[INFO] Printing files and sub folders in directory: zgczmvng
+[INFO] Adding file: bwn.wqq of size: 3700 to directory: zgczmvng
+[INFO] Adding file: jbvhs.chq of size: 240004 to directory: zgczmvng
+[INFO] Adding file: mvftsj of size: 224969 to directory: zgczmvng
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: tnfrr
+[INFO] Printing files and sub folders in directory: tnfrr
+[INFO] Adding Sub-Directory: hlbrpt
+[INFO] Adding file: mgrdrbl.lqg of size: 237956 to directory: tnfrr
+[INFO] Adding Sub-Directory: wqvv
+[INFO] Moving into a directory: hlbrpt
+[INFO] Printing files and sub folders in directory: hlbrpt
+[INFO] Adding file: crstpjjv.rlw of size: 34424 to directory: hlbrpt
+[INFO] Adding Sub-Directory: dzs
+[INFO] Adding file: mwrvw of size: 275267 to directory: hlbrpt
+[INFO] Adding file: nwqzrc.tnf of size: 313095 to directory: hlbrpt
+[INFO] Adding file: wzhgm.fft of size: 61808 to directory: hlbrpt
+[INFO] Moving into a directory: dzs
+[INFO] Printing files and sub folders in directory: dzs
+[INFO] Adding file: cbbvq.vvh of size: 274302 to directory: dzs
+[INFO] Adding file: dcgbjvj.cbq of size: 234166 to directory: dzs
+[INFO] Adding file: fpwznlp.zsf of size: 253156 to directory: dzs
+[INFO] Adding file: nzdbr of size: 7239 to directory: dzs
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: wqvv
+[INFO] Printing files and sub folders in directory: wqvv
+[INFO] Adding file: hchsfcp.clm of size: 120918 to directory: wqvv
+[INFO] Adding file: nfhrd.tts of size: 105770 to directory: wqvv
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: vjt
+[INFO] Printing files and sub folders in directory: vjt
+[INFO] Adding Sub-Directory: crstpjjv
+[INFO] Moving into a directory: crstpjjv
+[INFO] Printing files and sub folders in directory: crstpjjv
+[INFO] Adding file: fpwznlp.zsf of size: 81225 to directory: crstpjjv
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: ..
+[INFO] Moving into a directory: wqvv
+[INFO] Printing files and sub folders in directory: wqvv
+[INFO] Adding file: bcld.nwh of size: 72054 to directory: wqvv
+[INFO] Adding file: cvsmmh of size: 284293 to directory: wqvv
+[INFO] Adding file: ndgnz of size: 32684 to directory: wqvv
+[INFO] Adding file: rlvcvj of size: 130836 to directory: wqvv
+[INFO] Adding file: sbf.vcc of size: 233437 to directory: wqvv
+[INFO] Adding Sub-Directory: szwnlv
+[INFO] Moving into a directory: szwnlv
+[INFO] Printing files and sub folders in directory: szwnlv
+[INFO] Adding file: bnmhmpr.vww of size: 133507 to directory: szwnlv
+
+- / (dir)
+    - gszshjwr.lrs (file, size=57426)
+    - rjqns.prb (file, size=124423)
+    - cmvqf (dir)
+        - cnsb.cmm (file, size=6852)
+        - cwqbmjb.vpl (file, size=319810)
+        - trttdw.jsn (file, size=107040)
+        - wqvv (file, size=296426)
+        - dcgbjvj (dir)
+            - dcgbjvj (dir)
+                - gsqcwfmz.hlm (file, size=214674)
+            - rlvcvj (dir)
+                - cnsb.cmm (file, size=151752)
+                - sjlwgf.mqn (file, size=256829)
+        - ddnclwtd (dir)
+            - fpwznlp.zsf (file, size=177893)
+        - gccnrw (dir)
+            - mbfw (dir)
+                - ptrv (file, size=271166)
+                - dcgbjvj (dir)
+                    - npjmq (dir)
+                        - fpwznlp.zsf (file, size=26712)
+                - mhnjvrl (dir)
+                    - mgrdrbl.lqg (file, size=190094)
+                    - zgczmvng (file, size=199191)
+                    - zgczmvng.rld (file, size=22082)
+            - rlvcvj (dir)
+                - mbjprm (file, size=244617)
+                - wpgglg (file, size=264738)
+            - wsrdh (dir)
+                - vnqmnjpb.bnc (file, size=111558)
+                - mgmp (dir)
+                    - whzjb (dir)
+                        - mgrdrbl.lqg (file, size=235442)
+                        - sphms.tzw (file, size=63642)
+            - wvq (dir)
+                - dcgbjvj.rwc (file, size=23240)
+                - hcb (file, size=79015)
+                - jjc (file, size=155120)
+                - wqvv.cwp (file, size=207559)
+                - wqvv (dir)
+                    - cnsb.cmm (file, size=130961)
+                    - hgbr.snf (file, size=208524)
+                    - mgrdrbl.lqg (file, size=14868)
+                    - zgczmvng (file, size=143653)
+                    - fcl (dir)
+                        - jfjgnz (dir)
+                            - trttdw.jsn (file, size=225416)
+                    - lzs (dir)
+                        - vtcmf (file, size=111949)
+                    - sqpgtrn (dir)
+                        - cnsb.cmm (file, size=289955)
+                        - nwv.blw (file, size=6334)
+                        - crstpjjv (dir)
+                            - jtcndb.wht (file, size=144739)
+                            - qdccst.dsg (file, size=16215)
+                        - dcgbjvj (dir)
+                            - fjmbgql (file, size=82495)
+                            - hlcwhnf (file, size=248051)
+                            - qwzjc.sth (file, size=145452)
+                            - wqvv (file, size=268967)
+                            - wqvv.vdm (file, size=23371)
+                            - bnzmws (dir)
+                                - pvgrqjf.ftq (file, size=119626)
+                                - tscrpt.szt (file, size=204879)
+                                - dcgbjvj (dir)
+                                    - msf.qhf (file, size=152171)
+                                - dgbtqdn (dir)
+                                    - fpwznlp.zsf (file, size=64965)
+                            - crstpjjv (dir)
+                                - mgrdrbl.lqg (file, size=97804)
+                                - trttdw.jsn (file, size=88837)
+                            - spmr (dir)
+                                - dcgbjvj (file, size=302501)
+                            - zgczmvng (dir)
+                                - prznqbn (file, size=187957)
+                                - crstpjjv (dir)
+                                    - jlb.nvs (file, size=218211)
+                        - vpnhcsfr (dir)
+                            - qtcdjgz (file, size=220411)
+            - zgpdl (dir)
+                - llstdpv (dir)
+                    - qqccwwjf.mbw (file, size=318556)
+                - rtftjm (dir)
+                    - fwphh.zrz (file, size=117705)
+        - qwzphd (dir)
+            - wmc (file, size=58078)
+            - crstpjjv (dir)
+                - sbf.vcc (file, size=171196)
+                - trttdw.jsn (file, size=320608)
+            - fvfmlgql (dir)
+                - trttdw.jsn (file, size=298497)
+                - hfdnml (dir)
+                    - crstpjjv.vrr (file, size=43441)
+            - ldbts (dir)
+                - crstpjjv (file, size=211746)
+                - rcw.rcl (file, size=224627)
+            - ljtcgz (dir)
+                - fmbpcdbd.vrl (file, size=179456)
+                - fpwznlp.zsf (file, size=141254)
+                - pcmqcl.jmz (file, size=86291)
+                - pzvg.qcg (file, size=266763)
+                - dfrnh (dir)
+                    - crstpjjv (dir)
+                        - wqvv.hhn (file, size=220983)
+                - zjjbjn (dir)
+                    - nwcbbv.mbb (file, size=215454)
+            - llvhbzpz (dir)
+                - cnsb.cmm (file, size=206731)
+            - plcbgmwc (dir)
+                - fpwznlp.zsf (file, size=223141)
+                - jhdwr.jfc (file, size=309856)
+                - mmfzhj.zvg (file, size=218364)
+                - trttdw.jsn (file, size=316432)
+                - hplrsb (dir)
+                    - lbscwd (dir)
+                        - wvblz.hmp (file, size=157261)
+                    - lsffhj (dir)
+                        - crstpjjv (file, size=171621)
+                    - mlfp (dir)
+                        - vvjzm.pzt (file, size=80994)
+                    - pqfbf (dir)
+                        - ltd.zbw (file, size=67861)
+                        - rlvcvj (file, size=107828)
+                        - trttdw.jsn (file, size=160956)
+                        - nnsg (dir)
+                            - tzcrqv.rsr (file, size=18252)
+                        - nwcl (dir)
+                            - cnsb.cmm (file, size=38378)
+                            - dqwpwzz (file, size=217283)
+                            - mgrdrbl.lqg (file, size=220081)
+                            - sbf.vcc (file, size=28106)
+                    - tcvjzzhj (dir)
+                        - dhv (file, size=152965)
+                        - gvtdrj.rft (file, size=316034)
+                    - wqvv (dir)
+                        - mfzf.nfn (file, size=281962)
+                        - rlvcvj.zwf (file, size=95321)
+                - mhmnmd (dir)
+                    - cnsb.cmm (file, size=213145)
+                    - mnwhg (file, size=273060)
+                    - trttdw.jsn (file, size=318596)
+                    - hnzcz (dir)
+                        - fpwznlp.zsf (file, size=177795)
+                        - rlvcvj (file, size=188898)
+                        - wqvv.jsv (file, size=317234)
+                        - zgczmvng (dir)
+                            - qzfw (dir)
+                                - rlvcvj (file, size=134097)
+                                - sbf.vcc (file, size=73145)
+                    - qcwdvq (dir)
+                        - wqvv (file, size=83084)
+                - nwnj (dir)
+                    - hgpmqh (file, size=84366)
+                    - mgrdrbl.lqg (file, size=317603)
+                - vrgj (dir)
+                    - fpwznlp.zsf (file, size=136595)
+                    - sbf.vcc (file, size=78517)
+                    - wqvv.cpl (file, size=242465)
+                    - wqvv (dir)
+                        - sbf.vcc (file, size=3191)
+                    - zln (dir)
+                        - crstpjjv (dir)
+                            - btqgw (file, size=86511)
+                            - rcstn.jpj (file, size=17597)
+            - pwp (dir)
+                - mgrdrbl.lqg (file, size=290915)
+                - nfgj (file, size=219909)
+                - sbf.vcc (file, size=207313)
+                - crstpjjv (dir)
+                    - crnfs.fgn (file, size=298992)
+                    - jqh (file, size=172934)
+                - jlqdbv (dir)
+                    - zgczmvng (file, size=300436)
+                - zpjf (dir)
+                    - sbf.vcc (file, size=78904)
+            - qjstb (dir)
+                - htm.lzc (file, size=85552)
+                - mzb.fvt (file, size=219773)
+                - schz (file, size=208419)
+                - dtb (dir)
+                    - crstpjjv.zlb (file, size=167147)
+                - gcd (dir)
+                    - rlvcvj (file, size=239595)
+                - gmcnhh (dir)
+                    - fpwznlp.zsf (file, size=111653)
+        - rvqwnjv (dir)
+            - cnsb.cmm (file, size=59215)
+            - jtlcr.rlm (file, size=37164)
+            - mnc (dir)
+                - cnsb.cmm (file, size=32159)
+                - trttdw.jsn (file, size=76204)
+        - ssmf (dir)
+            - hpdzv (file, size=127458)
+            - jtjp.mjj (file, size=288242)
+            - mgrdrbl.lqg (file, size=268857)
+            - nhfmbvc (file, size=223968)
+            - wqvv.fnl (file, size=235806)
+            - fvcd (dir)
+                - wcs.bdp (file, size=26479)
+            - jcg (dir)
+                - nsvtrs (dir)
+                    - dcgbjvj (dir)
+                        - trttdw.jsn (file, size=36633)
+                - zgczmvng (dir)
+                    - vszcg.jdb (file, size=221381)
+            - jzp (dir)
+                - dcgbjvj (file, size=1957)
+            - wqvv (dir)
+                - wqvv.pvs (file, size=9330)
+                - ztlh (file, size=46963)
+        - wcn (dir)
+            - pjfdtvzf.rdf (file, size=123361)
+            - cqdzdnq (dir)
+                - dqhpbsg (dir)
+                    - glbfq.vpw (file, size=245289)
+                    - vsvvzbns.ftf (file, size=51357)
+                - qlq (dir)
+                    - mqgnjht.vqq (file, size=210318)
+                - vfwhcpwl (dir)
+                    - mmpzcjmp.znn (file, size=109892)
+                - wqvv (dir)
+                    - chwdzfsg (dir)
+                        - fpwznlp.zsf (file, size=108951)
+                        - vgc (dir)
+                            - fpwznlp.zsf (file, size=273011)
+                            - ntc.ghp (file, size=248078)
+                            - thgbb.mfn (file, size=77305)
+                            - trttdw.jsn (file, size=73383)
+                    - crstpjjv (dir)
+                        - qmswb (dir)
+                            - trttdw.jsn (file, size=68252)
+                    - dcgbjvj (dir)
+                        - qtcs.llc (file, size=111)
+                        - szzthsmj (dir)
+                            - qhztdv (dir)
+                                - qrdsrrb.chw (file, size=138433)
+                                - rlvcvj (dir)
+                                    - rlvcvj.nmb (file, size=249984)
+                                    - jfcm (dir)
+                                        - dtrc.wsm (file, size=117884)
+                                        - rlvcvj.mhd (file, size=237577)
+                                    - lzf (dir)
+                                        - nrc.clh (file, size=60342)
+                                    - twrs (dir)
+                                        - cnsb.cmm (file, size=97201)
+                            - wqvv (dir)
+                                - gcqzjf.gcb (file, size=73047)
+                            - zmqrftlm (dir)
+                                - ltd (dir)
+                                    - fpwznlp.zsf (file, size=120673)
+                    - rllbccjt (dir)
+                        - cnsb.cmm (file, size=299611)
+                        - qwh (file, size=36418)
+                        - trttdw.jsn (file, size=255907)
+                        - lnfvlqh (dir)
+                            - fpwznlp.zsf (file, size=195010)
+                            - llrznf.rwc (file, size=72496)
+                            - mgrdrbl.lqg (file, size=53126)
+                            - mnrqtn (file, size=90191)
+                            - nthdm.crh (file, size=310156)
+                            - lvgzb (dir)
+                                - mgrdrbl.lqg (file, size=209837)
+                                - rwhgmd (file, size=210074)
+                                - sbf.vcc (file, size=70338)
+                        - rlvcvj (dir)
+                            - dcgbjvj (file, size=252080)
+                        - zqvzpv (dir)
+                            - zpt.lbc (file, size=249229)
+                    - rlvcvj (dir)
+                        - dcgbjvj (dir)
+                            - trttdw.jsn (file, size=191363)
+                        - fdz (dir)
+                            - bqsdfc.rcn (file, size=291107)
+                            - fpwznlp.zsf (file, size=64333)
+                            - mgrdrbl.lqg (file, size=280608)
+                            - trttdw.jsn (file, size=125554)
+                            - dcgbjvj (dir)
+                                - qwjhpdh (file, size=169326)
+                            - lfb (dir)
+                                - zqfnjtr.clt (file, size=35299)
+                - zpbbspcv (dir)
+                    - mgrdrbl.lqg (file, size=54549)
+            - cszzg (dir)
+                - wqvv (dir)
+                    - crstpjjv.jtq (file, size=136042)
+                    - trttdw.jsn (file, size=10879)
+            - fqmcr (dir)
+                - bchvt.dvw (file, size=188798)
+                - fpwznlp.zsf (file, size=276819)
+                - zgczmvng.fqs (file, size=5623)
+                - znddbv (file, size=158621)
+                - gdr (dir)
+                    - cnsb.cmm (file, size=213096)
+                    - btg (dir)
+                        - hjm (dir)
+                            - zgczmvng.llz (file, size=144774)
+                    - dhbcmzbz (dir)
+                        - rlvcvj (file, size=148108)
+                - rlvcvj (dir)
+                    - qrdlf.pvg (file, size=201103)
+                    - vnpgw.wts (file, size=272776)
+                    - zgczmvng (file, size=153826)
+                    - zgczmvng.gsv (file, size=290248)
+            - rmrg (dir)
+                - jzb (dir)
+                    - trttdw.jsn (file, size=273968)
+                - nsslsw (dir)
+                    - sbf.vcc (file, size=226370)
+                - rlvcvj (dir)
+                    - gsbqswjj (file, size=294706)
+            - rsfddzs (dir)
+                - crstpjjv (file, size=205384)
+                - dfrjwrnz.bfl (file, size=82103)
+                - pqtrvd (file, size=297145)
+                - sbf.vcc (file, size=237572)
+                - cphvtp (dir)
+                    - phvc (dir)
+                        - dcgbjvj.lbj (file, size=52239)
+                - fntvngpm (dir)
+                    - mgrdrbl.lqg (file, size=18297)
+                - zgczmvng (dir)
+                    - tzqjcn (file, size=179956)
+                    - lzcwf (dir)
+                        - cnsb.cmm (file, size=284166)
+                        - jhmmn.qwn (file, size=157214)
+                    - pqmc (dir)
+                        - nlvdqw.jmt (file, size=215883)
+                        - wqvv.fgg (file, size=209722)
+                        - qjfr (dir)
+                            - mgrdrbl.lqg (file, size=53013)
+                            - sgmnjc (file, size=191236)
+                    - zgczmvng (dir)
+                        - dglqpjs (file, size=260649)
+                        - mgrdrbl.lqg (file, size=141213)
+            - vqrpdwv (dir)
+                - mgrdrbl.lqg (file, size=150895)
+                - nbrzfl.dpf (file, size=227641)
+                - ftw (dir)
+                    - dbsgvvbp (file, size=99672)
+                    - mgrdrbl.lqg (file, size=146730)
+                    - dnzld (dir)
+                        - bhjbfl.svw (file, size=37598)
+                        - qspsslt (dir)
+                            - vhgpwvf (dir)
+                                - ghgl (file, size=146936)
+                - nwjdnpdd (dir)
+                    - trttdw.jsn (file, size=46000)
+            - wpgddhdq (dir)
+                - rqgf (dir)
+                    - rlvcvj.fmr (file, size=197374)
+            - wpgv (dir)
+                - fpwznlp.zsf (file, size=286086)
+                - wqvv (file, size=258062)
+                - fdh (dir)
+                    - fpwznlp.zsf (file, size=76173)
+                    - nczhtpcn (file, size=230947)
+                    - rlvcvj (file, size=62630)
+                - pljq (dir)
+                    - rjms.dcg (file, size=41117)
+                    - mzmm (dir)
+                        - zgczmvng.ttl (file, size=144202)
+                - zgczmvng (dir)
+                    - dncr (dir)
+                        - dcgbjvj (file, size=198052)
+                        - rlvcvj.qwg (file, size=2829)
+                        - dqdgft (dir)
+                            - fng (dir)
+                                - zgczmvng (file, size=198899)
+                            - nlsmb (dir)
+                                - gmr.vmg (file, size=257121)
+                                - zsmd.bng (file, size=9276)
+                        - hpmwvnsr (dir)
+                            - jjwqbwl.fpl (file, size=241101)
+                            - wqvv (file, size=64151)
+                            - zgczmvng (file, size=196139)
+                    - mcdmfdp (dir)
+                        - lrgbhq (file, size=276856)
+                    - pgqglmj (dir)
+                        - fpwznlp.zsf (file, size=36476)
+                    - qldrmn (dir)
+                        - trttdw.jsn (file, size=295686)
+    - dcgbjvj (dir)
+        - zgczmvng.jsm (file, size=119561)
+        - brdfvd (dir)
+            - mhdjc.mng (file, size=272932)
+            - zgczmvng.jwg (file, size=91053)
+            - wqvv (dir)
+                - jhlqfn.sbs (file, size=121367)
+                - nsgbt (file, size=61760)
+                - sbf.vcc (file, size=46653)
+                - trttdw.jsn (file, size=16952)
+                - bpplph (dir)
+                    - rlvcvj (file, size=1288)
+        - crstpjjv (dir)
+            - sbf.vcc (file, size=117722)
+        - fzdqcgv (dir)
+            - fpwznlp.zsf (file, size=289819)
+        - fzw (dir)
+            - dcgbjvj (dir)
+                - cnsb.cmm (file, size=272427)
+            - zsfqwdth (dir)
+                - bdbgtqjj (dir)
+                    - tnqmspdf.cwd (file, size=318980)
+                - hcgrqbhl (dir)
+                    - fpwznlp.zsf (file, size=135307)
+                    - wqvv (dir)
+                        - ctz.wms (file, size=68708)
+                        - wlvdrfsw.qcj (file, size=149578)
+            - zswdl (dir)
+                - cnsb.cmm (file, size=259754)
+        - mrllpw (dir)
+            - tvsm (file, size=44007)
+        - wnh (dir)
+            - wpdhq.hvp (file, size=156515)
+            - mjnrmb (dir)
+                - fpwznlp.zsf (file, size=293592)
+    - nsgms (dir)
+        - zgczmvng.wmt (file, size=32152)
+        - dnhzj (dir)
+            - flqbvrw.gmf (file, size=281195)
+            - jjsfrmc.drz (file, size=177042)
+        - ptc (dir)
+            - pccmrnn (file, size=290797)
+            - rzl.tjm (file, size=59802)
+            - gjvnrcln (dir)
+                - jph (dir)
+                    - hflqlwr.mph (file, size=105648)
+                    - hmlqsp (file, size=158151)
+            - zgczmvng (dir)
+                - bwn.wqq (file, size=3700)
+                - jbvhs.chq (file, size=240004)
+                - mvftsj (file, size=224969)
+        - tnfrr (dir)
+            - mgrdrbl.lqg (file, size=237956)
+            - hlbrpt (dir)
+                - crstpjjv.rlw (file, size=34424)
+                - mwrvw (file, size=275267)
+                - nwqzrc.tnf (file, size=313095)
+                - wzhgm.fft (file, size=61808)
+                - dzs (dir)
+                    - cbbvq.vvh (file, size=274302)
+                    - dcgbjvj.cbq (file, size=234166)
+                    - fpwznlp.zsf (file, size=253156)
+                    - nzdbr (file, size=7239)
+            - wqvv (dir)
+                - hchsfcp.clm (file, size=120918)
+                - nfhrd.tts (file, size=105770)
+        - vjt (dir)
+            - crstpjjv (dir)
+                - fpwznlp.zsf (file, size=81225)
+    - wqvv (dir)
+        - bcld.nwh (file, size=72054)
+        - cvsmmh (file, size=284293)
+        - ndgnz (file, size=32684)
+        - rlvcvj (file, size=130836)
+        - sbf.vcc (file, size=233437)
+        - szwnlv (dir)
+            - bnmhmpr.vww (file, size=133507)
+
+--------------------------------------- Printing directories that match --------------------------------------
+- dcgbjvj (dir)
+    - npjmq (dir)
+        - fpwznlp.zsf (file, size=26712)
+
+- npjmq (dir)
+    - fpwznlp.zsf (file, size=26712)
+
+- dgbtqdn (dir)
+    - fpwznlp.zsf (file, size=64965)
+
+- hfdnml (dir)
+    - crstpjjv.vrr (file, size=43441)
+
+- mlfp (dir)
+    - vvjzm.pzt (file, size=80994)
+
+- nnsg (dir)
+    - tzcrqv.rsr (file, size=18252)
+
+- qcwdvq (dir)
+    - wqvv (file, size=83084)
+
+- wqvv (dir)
+    - sbf.vcc (file, size=3191)
+
+- zpjf (dir)
+    - sbf.vcc (file, size=78904)
+
+- fvcd (dir)
+    - wcs.bdp (file, size=26479)
+
+- nsvtrs (dir)
+    - dcgbjvj (dir)
+        - trttdw.jsn (file, size=36633)
+
+- dcgbjvj (dir)
+    - trttdw.jsn (file, size=36633)
+
+- jzp (dir)
+    - dcgbjvj (file, size=1957)
+
+- wqvv (dir)
+    - wqvv.pvs (file, size=9330)
+    - ztlh (file, size=46963)
+
+- crstpjjv (dir)
+    - qmswb (dir)
+        - trttdw.jsn (file, size=68252)
+
+- qmswb (dir)
+    - trttdw.jsn (file, size=68252)
+
+- lzf (dir)
+    - nrc.clh (file, size=60342)
+
+- twrs (dir)
+    - cnsb.cmm (file, size=97201)
+
+- wqvv (dir)
+    - gcqzjf.gcb (file, size=73047)
+
+- lfb (dir)
+    - zqfnjtr.clt (file, size=35299)
+
+- zpbbspcv (dir)
+    - mgrdrbl.lqg (file, size=54549)
+
+- cphvtp (dir)
+    - phvc (dir)
+        - dcgbjvj.lbj (file, size=52239)
+
+- phvc (dir)
+    - dcgbjvj.lbj (file, size=52239)
+
+- fntvngpm (dir)
+    - mgrdrbl.lqg (file, size=18297)
+
+- nwjdnpdd (dir)
+    - trttdw.jsn (file, size=46000)
+
+- pgqglmj (dir)
+    - fpwznlp.zsf (file, size=36476)
+
+- bpplph (dir)
+    - rlvcvj (file, size=1288)
+
+- mrllpw (dir)
+    - tvsm (file, size=44007)
+
+- vjt (dir)
+    - crstpjjv (dir)
+        - fpwznlp.zsf (file, size=81225)
+
+- crstpjjv (dir)
+    - fpwznlp.zsf (file, size=81225)
+
+Size of all directories that meet criteria is: 1454188
+--------------------------------------- Printing directories that can be deleted --------------------------------------
+Must free at least: 3837783 bytes
+Size: 4183246
+- wvq (dir)
+    - dcgbjvj.rwc (file, size=23240)
+    - hcb (file, size=79015)
+    - jjc (file, size=155120)
+    - wqvv.cwp (file, size=207559)
+    - wqvv (dir)
+        - cnsb.cmm (file, size=130961)
+        - hgbr.snf (file, size=208524)
+        - mgrdrbl.lqg (file, size=14868)
+        - zgczmvng (file, size=143653)
+        - fcl (dir)
+            - jfjgnz (dir)
+                - trttdw.jsn (file, size=225416)
+        - lzs (dir)
+            - vtcmf (file, size=111949)
+        - sqpgtrn (dir)
+            - cnsb.cmm (file, size=289955)
+            - nwv.blw (file, size=6334)
+            - crstpjjv (dir)
+                - jtcndb.wht (file, size=144739)
+                - qdccst.dsg (file, size=16215)
+            - dcgbjvj (dir)
+                - fjmbgql (file, size=82495)
+                - hlcwhnf (file, size=248051)
+                - qwzjc.sth (file, size=145452)
+                - wqvv (file, size=268967)
+                - wqvv.vdm (file, size=23371)
+                - bnzmws (dir)
+                    - pvgrqjf.ftq (file, size=119626)
+                    - tscrpt.szt (file, size=204879)
+                    - dcgbjvj (dir)
+                        - msf.qhf (file, size=152171)
+                    - dgbtqdn (dir)
+                        - fpwznlp.zsf (file, size=64965)
+                - crstpjjv (dir)
+                    - mgrdrbl.lqg (file, size=97804)
+                    - trttdw.jsn (file, size=88837)
+                - spmr (dir)
+                    - dcgbjvj (file, size=302501)
+                - zgczmvng (dir)
+                    - prznqbn (file, size=187957)
+                    - crstpjjv (dir)
+                        - jlb.nvs (file, size=218211)
+            - vpnhcsfr (dir)
+                - qtcdjgz (file, size=220411)
+
+Size: 5406295
+- wqvv (dir)
+    - chwdzfsg (dir)
+        - fpwznlp.zsf (file, size=108951)
+        - vgc (dir)
+            - fpwznlp.zsf (file, size=273011)
+            - ntc.ghp (file, size=248078)
+            - thgbb.mfn (file, size=77305)
+            - trttdw.jsn (file, size=73383)
+    - crstpjjv (dir)
+        - qmswb (dir)
+            - trttdw.jsn (file, size=68252)
+    - dcgbjvj (dir)
+        - qtcs.llc (file, size=111)
+        - szzthsmj (dir)
+            - qhztdv (dir)
+                - qrdsrrb.chw (file, size=138433)
+                - rlvcvj (dir)
+                    - rlvcvj.nmb (file, size=249984)
+                    - jfcm (dir)
+                        - dtrc.wsm (file, size=117884)
+                        - rlvcvj.mhd (file, size=237577)
+                    - lzf (dir)
+                        - nrc.clh (file, size=60342)
+                    - twrs (dir)
+                        - cnsb.cmm (file, size=97201)
+            - wqvv (dir)
+                - gcqzjf.gcb (file, size=73047)
+            - zmqrftlm (dir)
+                - ltd (dir)
+                    - fpwznlp.zsf (file, size=120673)
+    - rllbccjt (dir)
+        - cnsb.cmm (file, size=299611)
+        - qwh (file, size=36418)
+        - trttdw.jsn (file, size=255907)
+        - lnfvlqh (dir)
+            - fpwznlp.zsf (file, size=195010)
+            - llrznf.rwc (file, size=72496)
+            - mgrdrbl.lqg (file, size=53126)
+            - mnrqtn (file, size=90191)
+            - nthdm.crh (file, size=310156)
+            - lvgzb (dir)
+                - mgrdrbl.lqg (file, size=209837)
+                - rwhgmd (file, size=210074)
+                - sbf.vcc (file, size=70338)
+        - rlvcvj (dir)
+            - dcgbjvj (file, size=252080)
+        - zqvzpv (dir)
+            - zpt.lbc (file, size=249229)
+    - rlvcvj (dir)
+        - dcgbjvj (dir)
+            - trttdw.jsn (file, size=191363)
+        - fdz (dir)
+            - bqsdfc.rcn (file, size=291107)
+            - fpwznlp.zsf (file, size=64333)
+            - mgrdrbl.lqg (file, size=280608)
+            - trttdw.jsn (file, size=125554)
+            - dcgbjvj (dir)
+                - qwjhpdh (file, size=169326)
+            - lfb (dir)
+                - zqfnjtr.clt (file, size=35299)
+
+Size: 5928595
+- plcbgmwc (dir)
+    - fpwznlp.zsf (file, size=223141)
+    - jhdwr.jfc (file, size=309856)
+    - mmfzhj.zvg (file, size=218364)
+    - trttdw.jsn (file, size=316432)
+    - hplrsb (dir)
+        - lbscwd (dir)
+            - wvblz.hmp (file, size=157261)
+        - lsffhj (dir)
+            - crstpjjv (file, size=171621)
+        - mlfp (dir)
+            - vvjzm.pzt (file, size=80994)
+        - pqfbf (dir)
+            - ltd.zbw (file, size=67861)
+            - rlvcvj (file, size=107828)
+            - trttdw.jsn (file, size=160956)
+            - nnsg (dir)
+                - tzcrqv.rsr (file, size=18252)
+            - nwcl (dir)
+                - cnsb.cmm (file, size=38378)
+                - dqwpwzz (file, size=217283)
+                - mgrdrbl.lqg (file, size=220081)
+                - sbf.vcc (file, size=28106)
+        - tcvjzzhj (dir)
+            - dhv (file, size=152965)
+            - gvtdrj.rft (file, size=316034)
+        - wqvv (dir)
+            - mfzf.nfn (file, size=281962)
+            - rlvcvj.zwf (file, size=95321)
+    - mhmnmd (dir)
+        - cnsb.cmm (file, size=213145)
+        - mnwhg (file, size=273060)
+        - trttdw.jsn (file, size=318596)
+        - hnzcz (dir)
+            - fpwznlp.zsf (file, size=177795)
+            - rlvcvj (file, size=188898)
+            - wqvv.jsv (file, size=317234)
+            - zgczmvng (dir)
+                - qzfw (dir)
+                    - rlvcvj (file, size=134097)
+                    - sbf.vcc (file, size=73145)
+        - qcwdvq (dir)
+            - wqvv (file, size=83084)
+    - nwnj (dir)
+        - hgpmqh (file, size=84366)
+        - mgrdrbl.lqg (file, size=317603)
+    - vrgj (dir)
+        - fpwznlp.zsf (file, size=136595)
+        - sbf.vcc (file, size=78517)
+        - wqvv.cpl (file, size=242465)
+        - wqvv (dir)
+            - sbf.vcc (file, size=3191)
+        - zln (dir)
+            - crstpjjv (dir)
+                - btqgw (file, size=86511)
+                - rcstn.jpj (file, size=17597)
+
+Size: 6077700
+- cqdzdnq (dir)
+    - dqhpbsg (dir)
+        - glbfq.vpw (file, size=245289)
+        - vsvvzbns.ftf (file, size=51357)
+    - qlq (dir)
+        - mqgnjht.vqq (file, size=210318)
+    - vfwhcpwl (dir)
+        - mmpzcjmp.znn (file, size=109892)
+    - wqvv (dir)
+        - chwdzfsg (dir)
+            - fpwznlp.zsf (file, size=108951)
+            - vgc (dir)
+                - fpwznlp.zsf (file, size=273011)
+                - ntc.ghp (file, size=248078)
+                - thgbb.mfn (file, size=77305)
+                - trttdw.jsn (file, size=73383)
+        - crstpjjv (dir)
+            - qmswb (dir)
+                - trttdw.jsn (file, size=68252)
+        - dcgbjvj (dir)
+            - qtcs.llc (file, size=111)
+            - szzthsmj (dir)
+                - qhztdv (dir)
+                    - qrdsrrb.chw (file, size=138433)
+                    - rlvcvj (dir)
+                        - rlvcvj.nmb (file, size=249984)
+                        - jfcm (dir)
+                            - dtrc.wsm (file, size=117884)
+                            - rlvcvj.mhd (file, size=237577)
+                        - lzf (dir)
+                            - nrc.clh (file, size=60342)
+                        - twrs (dir)
+                            - cnsb.cmm (file, size=97201)
+                - wqvv (dir)
+                    - gcqzjf.gcb (file, size=73047)
+                - zmqrftlm (dir)
+                    - ltd (dir)
+                        - fpwznlp.zsf (file, size=120673)
+        - rllbccjt (dir)
+            - cnsb.cmm (file, size=299611)
+            - qwh (file, size=36418)
+            - trttdw.jsn (file, size=255907)
+            - lnfvlqh (dir)
+                - fpwznlp.zsf (file, size=195010)
+                - llrznf.rwc (file, size=72496)
+                - mgrdrbl.lqg (file, size=53126)
+                - mnrqtn (file, size=90191)
+                - nthdm.crh (file, size=310156)
+                - lvgzb (dir)
+                    - mgrdrbl.lqg (file, size=209837)
+                    - rwhgmd (file, size=210074)
+                    - sbf.vcc (file, size=70338)
+            - rlvcvj (dir)
+                - dcgbjvj (file, size=252080)
+            - zqvzpv (dir)
+                - zpt.lbc (file, size=249229)
+        - rlvcvj (dir)
+            - dcgbjvj (dir)
+                - trttdw.jsn (file, size=191363)
+            - fdz (dir)
+                - bqsdfc.rcn (file, size=291107)
+                - fpwznlp.zsf (file, size=64333)
+                - mgrdrbl.lqg (file, size=280608)
+                - trttdw.jsn (file, size=125554)
+                - dcgbjvj (dir)
+                    - qwjhpdh (file, size=169326)
+                - lfb (dir)
+                    - zqfnjtr.clt (file, size=35299)
+    - zpbbspcv (dir)
+        - mgrdrbl.lqg (file, size=54549)
+
+Size: 6248749
+- gccnrw (dir)
+    - mbfw (dir)
+        - ptrv (file, size=271166)
+        - dcgbjvj (dir)
+            - npjmq (dir)
+                - fpwznlp.zsf (file, size=26712)
+        - mhnjvrl (dir)
+            - mgrdrbl.lqg (file, size=190094)
+            - zgczmvng (file, size=199191)
+            - zgczmvng.rld (file, size=22082)
+    - rlvcvj (dir)
+        - mbjprm (file, size=244617)
+        - wpgglg (file, size=264738)
+    - wsrdh (dir)
+        - vnqmnjpb.bnc (file, size=111558)
+        - mgmp (dir)
+            - whzjb (dir)
+                - mgrdrbl.lqg (file, size=235442)
+                - sphms.tzw (file, size=63642)
+    - wvq (dir)
+        - dcgbjvj.rwc (file, size=23240)
+        - hcb (file, size=79015)
+        - jjc (file, size=155120)
+        - wqvv.cwp (file, size=207559)
+        - wqvv (dir)
+            - cnsb.cmm (file, size=130961)
+            - hgbr.snf (file, size=208524)
+            - mgrdrbl.lqg (file, size=14868)
+            - zgczmvng (file, size=143653)
+            - fcl (dir)
+                - jfjgnz (dir)
+                    - trttdw.jsn (file, size=225416)
+            - lzs (dir)
+                - vtcmf (file, size=111949)
+            - sqpgtrn (dir)
+                - cnsb.cmm (file, size=289955)
+                - nwv.blw (file, size=6334)
+                - crstpjjv (dir)
+                    - jtcndb.wht (file, size=144739)
+                    - qdccst.dsg (file, size=16215)
+                - dcgbjvj (dir)
+                    - fjmbgql (file, size=82495)
+                    - hlcwhnf (file, size=248051)
+                    - qwzjc.sth (file, size=145452)
+                    - wqvv (file, size=268967)
+                    - wqvv.vdm (file, size=23371)
+                    - bnzmws (dir)
+                        - pvgrqjf.ftq (file, size=119626)
+                        - tscrpt.szt (file, size=204879)
+                        - dcgbjvj (dir)
+                            - msf.qhf (file, size=152171)
+                        - dgbtqdn (dir)
+                            - fpwznlp.zsf (file, size=64965)
+                    - crstpjjv (dir)
+                        - mgrdrbl.lqg (file, size=97804)
+                        - trttdw.jsn (file, size=88837)
+                    - spmr (dir)
+                        - dcgbjvj (file, size=302501)
+                    - zgczmvng (dir)
+                        - prznqbn (file, size=187957)
+                        - crstpjjv (dir)
+                            - jlb.nvs (file, size=218211)
+                - vpnhcsfr (dir)
+                    - qtcdjgz (file, size=220411)
+    - zgpdl (dir)
+        - llstdpv (dir)
+            - qqccwwjf.mbw (file, size=318556)
+        - rtftjm (dir)
+            - fwphh.zrz (file, size=117705)
+
+Size: 11175262
+- qwzphd (dir)
+    - wmc (file, size=58078)
+    - crstpjjv (dir)
+        - sbf.vcc (file, size=171196)
+        - trttdw.jsn (file, size=320608)
+    - fvfmlgql (dir)
+        - trttdw.jsn (file, size=298497)
+        - hfdnml (dir)
+            - crstpjjv.vrr (file, size=43441)
+    - ldbts (dir)
+        - crstpjjv (file, size=211746)
+        - rcw.rcl (file, size=224627)
+    - ljtcgz (dir)
+        - fmbpcdbd.vrl (file, size=179456)
+        - fpwznlp.zsf (file, size=141254)
+        - pcmqcl.jmz (file, size=86291)
+        - pzvg.qcg (file, size=266763)
+        - dfrnh (dir)
+            - crstpjjv (dir)
+                - wqvv.hhn (file, size=220983)
+        - zjjbjn (dir)
+            - nwcbbv.mbb (file, size=215454)
+    - llvhbzpz (dir)
+        - cnsb.cmm (file, size=206731)
+    - plcbgmwc (dir)
+        - fpwznlp.zsf (file, size=223141)
+        - jhdwr.jfc (file, size=309856)
+        - mmfzhj.zvg (file, size=218364)
+        - trttdw.jsn (file, size=316432)
+        - hplrsb (dir)
+            - lbscwd (dir)
+                - wvblz.hmp (file, size=157261)
+            - lsffhj (dir)
+                - crstpjjv (file, size=171621)
+            - mlfp (dir)
+                - vvjzm.pzt (file, size=80994)
+            - pqfbf (dir)
+                - ltd.zbw (file, size=67861)
+                - rlvcvj (file, size=107828)
+                - trttdw.jsn (file, size=160956)
+                - nnsg (dir)
+                    - tzcrqv.rsr (file, size=18252)
+                - nwcl (dir)
+                    - cnsb.cmm (file, size=38378)
+                    - dqwpwzz (file, size=217283)
+                    - mgrdrbl.lqg (file, size=220081)
+                    - sbf.vcc (file, size=28106)
+            - tcvjzzhj (dir)
+                - dhv (file, size=152965)
+                - gvtdrj.rft (file, size=316034)
+            - wqvv (dir)
+                - mfzf.nfn (file, size=281962)
+                - rlvcvj.zwf (file, size=95321)
+        - mhmnmd (dir)
+            - cnsb.cmm (file, size=213145)
+            - mnwhg (file, size=273060)
+            - trttdw.jsn (file, size=318596)
+            - hnzcz (dir)
+                - fpwznlp.zsf (file, size=177795)
+                - rlvcvj (file, size=188898)
+                - wqvv.jsv (file, size=317234)
+                - zgczmvng (dir)
+                    - qzfw (dir)
+                        - rlvcvj (file, size=134097)
+                        - sbf.vcc (file, size=73145)
+            - qcwdvq (dir)
+                - wqvv (file, size=83084)
+        - nwnj (dir)
+            - hgpmqh (file, size=84366)
+            - mgrdrbl.lqg (file, size=317603)
+        - vrgj (dir)
+            - fpwznlp.zsf (file, size=136595)
+            - sbf.vcc (file, size=78517)
+            - wqvv.cpl (file, size=242465)
+            - wqvv (dir)
+                - sbf.vcc (file, size=3191)
+            - zln (dir)
+                - crstpjjv (dir)
+                    - btqgw (file, size=86511)
+                    - rcstn.jpj (file, size=17597)
+    - pwp (dir)
+        - mgrdrbl.lqg (file, size=290915)
+        - nfgj (file, size=219909)
+        - sbf.vcc (file, size=207313)
+        - crstpjjv (dir)
+            - crnfs.fgn (file, size=298992)
+            - jqh (file, size=172934)
+        - jlqdbv (dir)
+            - zgczmvng (file, size=300436)
+        - zpjf (dir)
+            - sbf.vcc (file, size=78904)
+    - qjstb (dir)
+        - htm.lzc (file, size=85552)
+        - mzb.fvt (file, size=219773)
+        - schz (file, size=208419)
+        - dtb (dir)
+            - crstpjjv.zlb (file, size=167147)
+        - gcd (dir)
+            - rlvcvj (file, size=239595)
+        - gmcnhh (dir)
+            - fpwznlp.zsf (file, size=111653)
+
+Size: 15711259
+- wcn (dir)
+    - pjfdtvzf.rdf (file, size=123361)
+    - cqdzdnq (dir)
+        - dqhpbsg (dir)
+            - glbfq.vpw (file, size=245289)
+            - vsvvzbns.ftf (file, size=51357)
+        - qlq (dir)
+            - mqgnjht.vqq (file, size=210318)
+        - vfwhcpwl (dir)
+            - mmpzcjmp.znn (file, size=109892)
+        - wqvv (dir)
+            - chwdzfsg (dir)
+                - fpwznlp.zsf (file, size=108951)
+                - vgc (dir)
+                    - fpwznlp.zsf (file, size=273011)
+                    - ntc.ghp (file, size=248078)
+                    - thgbb.mfn (file, size=77305)
+                    - trttdw.jsn (file, size=73383)
+            - crstpjjv (dir)
+                - qmswb (dir)
+                    - trttdw.jsn (file, size=68252)
+            - dcgbjvj (dir)
+                - qtcs.llc (file, size=111)
+                - szzthsmj (dir)
+                    - qhztdv (dir)
+                        - qrdsrrb.chw (file, size=138433)
+                        - rlvcvj (dir)
+                            - rlvcvj.nmb (file, size=249984)
+                            - jfcm (dir)
+                                - dtrc.wsm (file, size=117884)
+                                - rlvcvj.mhd (file, size=237577)
+                            - lzf (dir)
+                                - nrc.clh (file, size=60342)
+                            - twrs (dir)
+                                - cnsb.cmm (file, size=97201)
+                    - wqvv (dir)
+                        - gcqzjf.gcb (file, size=73047)
+                    - zmqrftlm (dir)
+                        - ltd (dir)
+                            - fpwznlp.zsf (file, size=120673)
+            - rllbccjt (dir)
+                - cnsb.cmm (file, size=299611)
+                - qwh (file, size=36418)
+                - trttdw.jsn (file, size=255907)
+                - lnfvlqh (dir)
+                    - fpwznlp.zsf (file, size=195010)
+                    - llrznf.rwc (file, size=72496)
+                    - mgrdrbl.lqg (file, size=53126)
+                    - mnrqtn (file, size=90191)
+                    - nthdm.crh (file, size=310156)
+                    - lvgzb (dir)
+                        - mgrdrbl.lqg (file, size=209837)
+                        - rwhgmd (file, size=210074)
+                        - sbf.vcc (file, size=70338)
+                - rlvcvj (dir)
+                    - dcgbjvj (file, size=252080)
+                - zqvzpv (dir)
+                    - zpt.lbc (file, size=249229)
+            - rlvcvj (dir)
+                - dcgbjvj (dir)
+                    - trttdw.jsn (file, size=191363)
+                - fdz (dir)
+                    - bqsdfc.rcn (file, size=291107)
+                    - fpwznlp.zsf (file, size=64333)
+                    - mgrdrbl.lqg (file, size=280608)
+                    - trttdw.jsn (file, size=125554)
+                    - dcgbjvj (dir)
+                        - qwjhpdh (file, size=169326)
+                    - lfb (dir)
+                        - zqfnjtr.clt (file, size=35299)
+        - zpbbspcv (dir)
+            - mgrdrbl.lqg (file, size=54549)
+    - cszzg (dir)
+        - wqvv (dir)
+            - crstpjjv.jtq (file, size=136042)
+            - trttdw.jsn (file, size=10879)
+    - fqmcr (dir)
+        - bchvt.dvw (file, size=188798)
+        - fpwznlp.zsf (file, size=276819)
+        - zgczmvng.fqs (file, size=5623)
+        - znddbv (file, size=158621)
+        - gdr (dir)
+            - cnsb.cmm (file, size=213096)
+            - btg (dir)
+                - hjm (dir)
+                    - zgczmvng.llz (file, size=144774)
+            - dhbcmzbz (dir)
+                - rlvcvj (file, size=148108)
+        - rlvcvj (dir)
+            - qrdlf.pvg (file, size=201103)
+            - vnpgw.wts (file, size=272776)
+            - zgczmvng (file, size=153826)
+            - zgczmvng.gsv (file, size=290248)
+    - rmrg (dir)
+        - jzb (dir)
+            - trttdw.jsn (file, size=273968)
+        - nsslsw (dir)
+            - sbf.vcc (file, size=226370)
+        - rlvcvj (dir)
+            - gsbqswjj (file, size=294706)
+    - rsfddzs (dir)
+        - crstpjjv (file, size=205384)
+        - dfrjwrnz.bfl (file, size=82103)
+        - pqtrvd (file, size=297145)
+        - sbf.vcc (file, size=237572)
+        - cphvtp (dir)
+            - phvc (dir)
+                - dcgbjvj.lbj (file, size=52239)
+        - fntvngpm (dir)
+            - mgrdrbl.lqg (file, size=18297)
+        - zgczmvng (dir)
+            - tzqjcn (file, size=179956)
+            - lzcwf (dir)
+                - cnsb.cmm (file, size=284166)
+                - jhmmn.qwn (file, size=157214)
+            - pqmc (dir)
+                - nlvdqw.jmt (file, size=215883)
+                - wqvv.fgg (file, size=209722)
+                - qjfr (dir)
+                    - mgrdrbl.lqg (file, size=53013)
+                    - sgmnjc (file, size=191236)
+            - zgczmvng (dir)
+                - dglqpjs (file, size=260649)
+                - mgrdrbl.lqg (file, size=141213)
+    - vqrpdwv (dir)
+        - mgrdrbl.lqg (file, size=150895)
+        - nbrzfl.dpf (file, size=227641)
+        - ftw (dir)
+            - dbsgvvbp (file, size=99672)
+            - mgrdrbl.lqg (file, size=146730)
+            - dnzld (dir)
+                - bhjbfl.svw (file, size=37598)
+                - qspsslt (dir)
+                    - vhgpwvf (dir)
+                        - ghgl (file, size=146936)
+        - nwjdnpdd (dir)
+            - trttdw.jsn (file, size=46000)
+    - wpgddhdq (dir)
+        - rqgf (dir)
+            - rlvcvj.fmr (file, size=197374)
+    - wpgv (dir)
+        - fpwznlp.zsf (file, size=286086)
+        - wqvv (file, size=258062)
+        - fdh (dir)
+            - fpwznlp.zsf (file, size=76173)
+            - nczhtpcn (file, size=230947)
+            - rlvcvj (file, size=62630)
+        - pljq (dir)
+            - rjms.dcg (file, size=41117)
+            - mzmm (dir)
+                - zgczmvng.ttl (file, size=144202)
+        - zgczmvng (dir)
+            - dncr (dir)
+                - dcgbjvj (file, size=198052)
+                - rlvcvj.qwg (file, size=2829)
+                - dqdgft (dir)
+                    - fng (dir)
+                        - zgczmvng (file, size=198899)
+                    - nlsmb (dir)
+                        - gmr.vmg (file, size=257121)
+                        - zsmd.bng (file, size=9276)
+                - hpmwvnsr (dir)
+                    - jjwqbwl.fpl (file, size=241101)
+                    - wqvv (file, size=64151)
+                    - zgczmvng (file, size=196139)
+            - mcdmfdp (dir)
+                - lrgbhq (file, size=276856)
+            - pgqglmj (dir)
+                - fpwznlp.zsf (file, size=36476)
+            - qldrmn (dir)
+                - trttdw.jsn (file, size=295686)
+
+Size: 36358362
+- cmvqf (dir)
+    - cnsb.cmm (file, size=6852)
+    - cwqbmjb.vpl (file, size=319810)
+    - trttdw.jsn (file, size=107040)
+    - wqvv (file, size=296426)
+    - dcgbjvj (dir)
+        - dcgbjvj (dir)
+            - gsqcwfmz.hlm (file, size=214674)
+        - rlvcvj (dir)
+            - cnsb.cmm (file, size=151752)
+            - sjlwgf.mqn (file, size=256829)
+    - ddnclwtd (dir)
+        - fpwznlp.zsf (file, size=177893)
+    - gccnrw (dir)
+        - mbfw (dir)
+            - ptrv (file, size=271166)
+            - dcgbjvj (dir)
+                - npjmq (dir)
+                    - fpwznlp.zsf (file, size=26712)
+            - mhnjvrl (dir)
+                - mgrdrbl.lqg (file, size=190094)
+                - zgczmvng (file, size=199191)
+                - zgczmvng.rld (file, size=22082)
+        - rlvcvj (dir)
+            - mbjprm (file, size=244617)
+            - wpgglg (file, size=264738)
+        - wsrdh (dir)
+            - vnqmnjpb.bnc (file, size=111558)
+            - mgmp (dir)
+                - whzjb (dir)
+                    - mgrdrbl.lqg (file, size=235442)
+                    - sphms.tzw (file, size=63642)
+        - wvq (dir)
+            - dcgbjvj.rwc (file, size=23240)
+            - hcb (file, size=79015)
+            - jjc (file, size=155120)
+            - wqvv.cwp (file, size=207559)
+            - wqvv (dir)
+                - cnsb.cmm (file, size=130961)
+                - hgbr.snf (file, size=208524)
+                - mgrdrbl.lqg (file, size=14868)
+                - zgczmvng (file, size=143653)
+                - fcl (dir)
+                    - jfjgnz (dir)
+                        - trttdw.jsn (file, size=225416)
+                - lzs (dir)
+                    - vtcmf (file, size=111949)
+                - sqpgtrn (dir)
+                    - cnsb.cmm (file, size=289955)
+                    - nwv.blw (file, size=6334)
+                    - crstpjjv (dir)
+                        - jtcndb.wht (file, size=144739)
+                        - qdccst.dsg (file, size=16215)
+                    - dcgbjvj (dir)
+                        - fjmbgql (file, size=82495)
+                        - hlcwhnf (file, size=248051)
+                        - qwzjc.sth (file, size=145452)
+                        - wqvv (file, size=268967)
+                        - wqvv.vdm (file, size=23371)
+                        - bnzmws (dir)
+                            - pvgrqjf.ftq (file, size=119626)
+                            - tscrpt.szt (file, size=204879)
+                            - dcgbjvj (dir)
+                                - msf.qhf (file, size=152171)
+                            - dgbtqdn (dir)
+                                - fpwznlp.zsf (file, size=64965)
+                        - crstpjjv (dir)
+                            - mgrdrbl.lqg (file, size=97804)
+                            - trttdw.jsn (file, size=88837)
+                        - spmr (dir)
+                            - dcgbjvj (file, size=302501)
+                        - zgczmvng (dir)
+                            - prznqbn (file, size=187957)
+                            - crstpjjv (dir)
+                                - jlb.nvs (file, size=218211)
+                    - vpnhcsfr (dir)
+                        - qtcdjgz (file, size=220411)
+        - zgpdl (dir)
+            - llstdpv (dir)
+                - qqccwwjf.mbw (file, size=318556)
+            - rtftjm (dir)
+                - fwphh.zrz (file, size=117705)
+    - qwzphd (dir)
+        - wmc (file, size=58078)
+        - crstpjjv (dir)
+            - sbf.vcc (file, size=171196)
+            - trttdw.jsn (file, size=320608)
+        - fvfmlgql (dir)
+            - trttdw.jsn (file, size=298497)
+            - hfdnml (dir)
+                - crstpjjv.vrr (file, size=43441)
+        - ldbts (dir)
+            - crstpjjv (file, size=211746)
+            - rcw.rcl (file, size=224627)
+        - ljtcgz (dir)
+            - fmbpcdbd.vrl (file, size=179456)
+            - fpwznlp.zsf (file, size=141254)
+            - pcmqcl.jmz (file, size=86291)
+            - pzvg.qcg (file, size=266763)
+            - dfrnh (dir)
+                - crstpjjv (dir)
+                    - wqvv.hhn (file, size=220983)
+            - zjjbjn (dir)
+                - nwcbbv.mbb (file, size=215454)
+        - llvhbzpz (dir)
+            - cnsb.cmm (file, size=206731)
+        - plcbgmwc (dir)
+            - fpwznlp.zsf (file, size=223141)
+            - jhdwr.jfc (file, size=309856)
+            - mmfzhj.zvg (file, size=218364)
+            - trttdw.jsn (file, size=316432)
+            - hplrsb (dir)
+                - lbscwd (dir)
+                    - wvblz.hmp (file, size=157261)
+                - lsffhj (dir)
+                    - crstpjjv (file, size=171621)
+                - mlfp (dir)
+                    - vvjzm.pzt (file, size=80994)
+                - pqfbf (dir)
+                    - ltd.zbw (file, size=67861)
+                    - rlvcvj (file, size=107828)
+                    - trttdw.jsn (file, size=160956)
+                    - nnsg (dir)
+                        - tzcrqv.rsr (file, size=18252)
+                    - nwcl (dir)
+                        - cnsb.cmm (file, size=38378)
+                        - dqwpwzz (file, size=217283)
+                        - mgrdrbl.lqg (file, size=220081)
+                        - sbf.vcc (file, size=28106)
+                - tcvjzzhj (dir)
+                    - dhv (file, size=152965)
+                    - gvtdrj.rft (file, size=316034)
+                - wqvv (dir)
+                    - mfzf.nfn (file, size=281962)
+                    - rlvcvj.zwf (file, size=95321)
+            - mhmnmd (dir)
+                - cnsb.cmm (file, size=213145)
+                - mnwhg (file, size=273060)
+                - trttdw.jsn (file, size=318596)
+                - hnzcz (dir)
+                    - fpwznlp.zsf (file, size=177795)
+                    - rlvcvj (file, size=188898)
+                    - wqvv.jsv (file, size=317234)
+                    - zgczmvng (dir)
+                        - qzfw (dir)
+                            - rlvcvj (file, size=134097)
+                            - sbf.vcc (file, size=73145)
+                - qcwdvq (dir)
+                    - wqvv (file, size=83084)
+            - nwnj (dir)
+                - hgpmqh (file, size=84366)
+                - mgrdrbl.lqg (file, size=317603)
+            - vrgj (dir)
+                - fpwznlp.zsf (file, size=136595)
+                - sbf.vcc (file, size=78517)
+                - wqvv.cpl (file, size=242465)
+                - wqvv (dir)
+                    - sbf.vcc (file, size=3191)
+                - zln (dir)
+                    - crstpjjv (dir)
+                        - btqgw (file, size=86511)
+                        - rcstn.jpj (file, size=17597)
+        - pwp (dir)
+            - mgrdrbl.lqg (file, size=290915)
+            - nfgj (file, size=219909)
+            - sbf.vcc (file, size=207313)
+            - crstpjjv (dir)
+                - crnfs.fgn (file, size=298992)
+                - jqh (file, size=172934)
+            - jlqdbv (dir)
+                - zgczmvng (file, size=300436)
+            - zpjf (dir)
+                - sbf.vcc (file, size=78904)
+        - qjstb (dir)
+            - htm.lzc (file, size=85552)
+            - mzb.fvt (file, size=219773)
+            - schz (file, size=208419)
+            - dtb (dir)
+                - crstpjjv.zlb (file, size=167147)
+            - gcd (dir)
+                - rlvcvj (file, size=239595)
+            - gmcnhh (dir)
+                - fpwznlp.zsf (file, size=111653)
+    - rvqwnjv (dir)
+        - cnsb.cmm (file, size=59215)
+        - jtlcr.rlm (file, size=37164)
+        - mnc (dir)
+            - cnsb.cmm (file, size=32159)
+            - trttdw.jsn (file, size=76204)
+    - ssmf (dir)
+        - hpdzv (file, size=127458)
+        - jtjp.mjj (file, size=288242)
+        - mgrdrbl.lqg (file, size=268857)
+        - nhfmbvc (file, size=223968)
+        - wqvv.fnl (file, size=235806)
+        - fvcd (dir)
+            - wcs.bdp (file, size=26479)
+        - jcg (dir)
+            - nsvtrs (dir)
+                - dcgbjvj (dir)
+                    - trttdw.jsn (file, size=36633)
+            - zgczmvng (dir)
+                - vszcg.jdb (file, size=221381)
+        - jzp (dir)
+            - dcgbjvj (file, size=1957)
+        - wqvv (dir)
+            - wqvv.pvs (file, size=9330)
+            - ztlh (file, size=46963)
+    - wcn (dir)
+        - pjfdtvzf.rdf (file, size=123361)
+        - cqdzdnq (dir)
+            - dqhpbsg (dir)
+                - glbfq.vpw (file, size=245289)
+                - vsvvzbns.ftf (file, size=51357)
+            - qlq (dir)
+                - mqgnjht.vqq (file, size=210318)
+            - vfwhcpwl (dir)
+                - mmpzcjmp.znn (file, size=109892)
+            - wqvv (dir)
+                - chwdzfsg (dir)
+                    - fpwznlp.zsf (file, size=108951)
+                    - vgc (dir)
+                        - fpwznlp.zsf (file, size=273011)
+                        - ntc.ghp (file, size=248078)
+                        - thgbb.mfn (file, size=77305)
+                        - trttdw.jsn (file, size=73383)
+                - crstpjjv (dir)
+                    - qmswb (dir)
+                        - trttdw.jsn (file, size=68252)
+                - dcgbjvj (dir)
+                    - qtcs.llc (file, size=111)
+                    - szzthsmj (dir)
+                        - qhztdv (dir)
+                            - qrdsrrb.chw (file, size=138433)
+                            - rlvcvj (dir)
+                                - rlvcvj.nmb (file, size=249984)
+                                - jfcm (dir)
+                                    - dtrc.wsm (file, size=117884)
+                                    - rlvcvj.mhd (file, size=237577)
+                                - lzf (dir)
+                                    - nrc.clh (file, size=60342)
+                                - twrs (dir)
+                                    - cnsb.cmm (file, size=97201)
+                        - wqvv (dir)
+                            - gcqzjf.gcb (file, size=73047)
+                        - zmqrftlm (dir)
+                            - ltd (dir)
+                                - fpwznlp.zsf (file, size=120673)
+                - rllbccjt (dir)
+                    - cnsb.cmm (file, size=299611)
+                    - qwh (file, size=36418)
+                    - trttdw.jsn (file, size=255907)
+                    - lnfvlqh (dir)
+                        - fpwznlp.zsf (file, size=195010)
+                        - llrznf.rwc (file, size=72496)
+                        - mgrdrbl.lqg (file, size=53126)
+                        - mnrqtn (file, size=90191)
+                        - nthdm.crh (file, size=310156)
+                        - lvgzb (dir)
+                            - mgrdrbl.lqg (file, size=209837)
+                            - rwhgmd (file, size=210074)
+                            - sbf.vcc (file, size=70338)
+                    - rlvcvj (dir)
+                        - dcgbjvj (file, size=252080)
+                    - zqvzpv (dir)
+                        - zpt.lbc (file, size=249229)
+                - rlvcvj (dir)
+                    - dcgbjvj (dir)
+                        - trttdw.jsn (file, size=191363)
+                    - fdz (dir)
+                        - bqsdfc.rcn (file, size=291107)
+                        - fpwznlp.zsf (file, size=64333)
+                        - mgrdrbl.lqg (file, size=280608)
+                        - trttdw.jsn (file, size=125554)
+                        - dcgbjvj (dir)
+                            - qwjhpdh (file, size=169326)
+                        - lfb (dir)
+                            - zqfnjtr.clt (file, size=35299)
+            - zpbbspcv (dir)
+                - mgrdrbl.lqg (file, size=54549)
+        - cszzg (dir)
+            - wqvv (dir)
+                - crstpjjv.jtq (file, size=136042)
+                - trttdw.jsn (file, size=10879)
+        - fqmcr (dir)
+            - bchvt.dvw (file, size=188798)
+            - fpwznlp.zsf (file, size=276819)
+            - zgczmvng.fqs (file, size=5623)
+            - znddbv (file, size=158621)
+            - gdr (dir)
+                - cnsb.cmm (file, size=213096)
+                - btg (dir)
+                    - hjm (dir)
+                        - zgczmvng.llz (file, size=144774)
+                - dhbcmzbz (dir)
+                    - rlvcvj (file, size=148108)
+            - rlvcvj (dir)
+                - qrdlf.pvg (file, size=201103)
+                - vnpgw.wts (file, size=272776)
+                - zgczmvng (file, size=153826)
+                - zgczmvng.gsv (file, size=290248)
+        - rmrg (dir)
+            - jzb (dir)
+                - trttdw.jsn (file, size=273968)
+            - nsslsw (dir)
+                - sbf.vcc (file, size=226370)
+            - rlvcvj (dir)
+                - gsbqswjj (file, size=294706)
+        - rsfddzs (dir)
+            - crstpjjv (file, size=205384)
+            - dfrjwrnz.bfl (file, size=82103)
+            - pqtrvd (file, size=297145)
+            - sbf.vcc (file, size=237572)
+            - cphvtp (dir)
+                - phvc (dir)
+                    - dcgbjvj.lbj (file, size=52239)
+            - fntvngpm (dir)
+                - mgrdrbl.lqg (file, size=18297)
+            - zgczmvng (dir)
+                - tzqjcn (file, size=179956)
+                - lzcwf (dir)
+                    - cnsb.cmm (file, size=284166)
+                    - jhmmn.qwn (file, size=157214)
+                - pqmc (dir)
+                    - nlvdqw.jmt (file, size=215883)
+                    - wqvv.fgg (file, size=209722)
+                    - qjfr (dir)
+                        - mgrdrbl.lqg (file, size=53013)
+                        - sgmnjc (file, size=191236)
+                - zgczmvng (dir)
+                    - dglqpjs (file, size=260649)
+                    - mgrdrbl.lqg (file, size=141213)
+        - vqrpdwv (dir)
+            - mgrdrbl.lqg (file, size=150895)
+            - nbrzfl.dpf (file, size=227641)
+            - ftw (dir)
+                - dbsgvvbp (file, size=99672)
+                - mgrdrbl.lqg (file, size=146730)
+                - dnzld (dir)
+                    - bhjbfl.svw (file, size=37598)
+                    - qspsslt (dir)
+                        - vhgpwvf (dir)
+                            - ghgl (file, size=146936)
+            - nwjdnpdd (dir)
+                - trttdw.jsn (file, size=46000)
+        - wpgddhdq (dir)
+            - rqgf (dir)
+                - rlvcvj.fmr (file, size=197374)
+        - wpgv (dir)
+            - fpwznlp.zsf (file, size=286086)
+            - wqvv (file, size=258062)
+            - fdh (dir)
+                - fpwznlp.zsf (file, size=76173)
+                - nczhtpcn (file, size=230947)
+                - rlvcvj (file, size=62630)
+            - pljq (dir)
+                - rjms.dcg (file, size=41117)
+                - mzmm (dir)
+                    - zgczmvng.ttl (file, size=144202)
+            - zgczmvng (dir)
+                - dncr (dir)
+                    - dcgbjvj (file, size=198052)
+                    - rlvcvj.qwg (file, size=2829)
+                    - dqdgft (dir)
+                        - fng (dir)
+                            - zgczmvng (file, size=198899)
+                        - nlsmb (dir)
+                            - gmr.vmg (file, size=257121)
+                            - zsmd.bng (file, size=9276)
+                    - hpmwvnsr (dir)
+                        - jjwqbwl.fpl (file, size=241101)
+                        - wqvv (file, size=64151)
+                        - zgczmvng (file, size=196139)
+                - mcdmfdp (dir)
+                    - lrgbhq (file, size=276856)
+                - pgqglmj (dir)
+                    - fpwznlp.zsf (file, size=36476)
+                - qldrmn (dir)
+                    - trttdw.jsn (file, size=295686)
+
+Size: 43837783
+- / (dir)
+    - gszshjwr.lrs (file, size=57426)
+    - rjqns.prb (file, size=124423)
+    - cmvqf (dir)
+        - cnsb.cmm (file, size=6852)
+        - cwqbmjb.vpl (file, size=319810)
+        - trttdw.jsn (file, size=107040)
+        - wqvv (file, size=296426)
+        - dcgbjvj (dir)
+            - dcgbjvj (dir)
+                - gsqcwfmz.hlm (file, size=214674)
+            - rlvcvj (dir)
+                - cnsb.cmm (file, size=151752)
+                - sjlwgf.mqn (file, size=256829)
+        - ddnclwtd (dir)
+            - fpwznlp.zsf (file, size=177893)
+        - gccnrw (dir)
+            - mbfw (dir)
+                - ptrv (file, size=271166)
+                - dcgbjvj (dir)
+                    - npjmq (dir)
+                        - fpwznlp.zsf (file, size=26712)
+                - mhnjvrl (dir)
+                    - mgrdrbl.lqg (file, size=190094)
+                    - zgczmvng (file, size=199191)
+                    - zgczmvng.rld (file, size=22082)
+            - rlvcvj (dir)
+                - mbjprm (file, size=244617)
+                - wpgglg (file, size=264738)
+            - wsrdh (dir)
+                - vnqmnjpb.bnc (file, size=111558)
+                - mgmp (dir)
+                    - whzjb (dir)
+                        - mgrdrbl.lqg (file, size=235442)
+                        - sphms.tzw (file, size=63642)
+            - wvq (dir)
+                - dcgbjvj.rwc (file, size=23240)
+                - hcb (file, size=79015)
+                - jjc (file, size=155120)
+                - wqvv.cwp (file, size=207559)
+                - wqvv (dir)
+                    - cnsb.cmm (file, size=130961)
+                    - hgbr.snf (file, size=208524)
+                    - mgrdrbl.lqg (file, size=14868)
+                    - zgczmvng (file, size=143653)
+                    - fcl (dir)
+                        - jfjgnz (dir)
+                            - trttdw.jsn (file, size=225416)
+                    - lzs (dir)
+                        - vtcmf (file, size=111949)
+                    - sqpgtrn (dir)
+                        - cnsb.cmm (file, size=289955)
+                        - nwv.blw (file, size=6334)
+                        - crstpjjv (dir)
+                            - jtcndb.wht (file, size=144739)
+                            - qdccst.dsg (file, size=16215)
+                        - dcgbjvj (dir)
+                            - fjmbgql (file, size=82495)
+                            - hlcwhnf (file, size=248051)
+                            - qwzjc.sth (file, size=145452)
+                            - wqvv (file, size=268967)
+                            - wqvv.vdm (file, size=23371)
+                            - bnzmws (dir)
+                                - pvgrqjf.ftq (file, size=119626)
+                                - tscrpt.szt (file, size=204879)
+                                - dcgbjvj (dir)
+                                    - msf.qhf (file, size=152171)
+                                - dgbtqdn (dir)
+                                    - fpwznlp.zsf (file, size=64965)
+                            - crstpjjv (dir)
+                                - mgrdrbl.lqg (file, size=97804)
+                                - trttdw.jsn (file, size=88837)
+                            - spmr (dir)
+                                - dcgbjvj (file, size=302501)
+                            - zgczmvng (dir)
+                                - prznqbn (file, size=187957)
+                                - crstpjjv (dir)
+                                    - jlb.nvs (file, size=218211)
+                        - vpnhcsfr (dir)
+                            - qtcdjgz (file, size=220411)
+            - zgpdl (dir)
+                - llstdpv (dir)
+                    - qqccwwjf.mbw (file, size=318556)
+                - rtftjm (dir)
+                    - fwphh.zrz (file, size=117705)
+        - qwzphd (dir)
+            - wmc (file, size=58078)
+            - crstpjjv (dir)
+                - sbf.vcc (file, size=171196)
+                - trttdw.jsn (file, size=320608)
+            - fvfmlgql (dir)
+                - trttdw.jsn (file, size=298497)
+                - hfdnml (dir)
+                    - crstpjjv.vrr (file, size=43441)
+            - ldbts (dir)
+                - crstpjjv (file, size=211746)
+                - rcw.rcl (file, size=224627)
+            - ljtcgz (dir)
+                - fmbpcdbd.vrl (file, size=179456)
+                - fpwznlp.zsf (file, size=141254)
+                - pcmqcl.jmz (file, size=86291)
+                - pzvg.qcg (file, size=266763)
+                - dfrnh (dir)
+                    - crstpjjv (dir)
+                        - wqvv.hhn (file, size=220983)
+                - zjjbjn (dir)
+                    - nwcbbv.mbb (file, size=215454)
+            - llvhbzpz (dir)
+                - cnsb.cmm (file, size=206731)
+            - plcbgmwc (dir)
+                - fpwznlp.zsf (file, size=223141)
+                - jhdwr.jfc (file, size=309856)
+                - mmfzhj.zvg (file, size=218364)
+                - trttdw.jsn (file, size=316432)
+                - hplrsb (dir)
+                    - lbscwd (dir)
+                        - wvblz.hmp (file, size=157261)
+                    - lsffhj (dir)
+                        - crstpjjv (file, size=171621)
+                    - mlfp (dir)
+                        - vvjzm.pzt (file, size=80994)
+                    - pqfbf (dir)
+                        - ltd.zbw (file, size=67861)
+                        - rlvcvj (file, size=107828)
+                        - trttdw.jsn (file, size=160956)
+                        - nnsg (dir)
+                            - tzcrqv.rsr (file, size=18252)
+                        - nwcl (dir)
+                            - cnsb.cmm (file, size=38378)
+                            - dqwpwzz (file, size=217283)
+                            - mgrdrbl.lqg (file, size=220081)
+                            - sbf.vcc (file, size=28106)
+                    - tcvjzzhj (dir)
+                        - dhv (file, size=152965)
+                        - gvtdrj.rft (file, size=316034)
+                    - wqvv (dir)
+                        - mfzf.nfn (file, size=281962)
+                        - rlvcvj.zwf (file, size=95321)
+                - mhmnmd (dir)
+                    - cnsb.cmm (file, size=213145)
+                    - mnwhg (file, size=273060)
+                    - trttdw.jsn (file, size=318596)
+                    - hnzcz (dir)
+                        - fpwznlp.zsf (file, size=177795)
+                        - rlvcvj (file, size=188898)
+                        - wqvv.jsv (file, size=317234)
+                        - zgczmvng (dir)
+                            - qzfw (dir)
+                                - rlvcvj (file, size=134097)
+                                - sbf.vcc (file, size=73145)
+                    - qcwdvq (dir)
+                        - wqvv (file, size=83084)
+                - nwnj (dir)
+                    - hgpmqh (file, size=84366)
+                    - mgrdrbl.lqg (file, size=317603)
+                - vrgj (dir)
+                    - fpwznlp.zsf (file, size=136595)
+                    - sbf.vcc (file, size=78517)
+                    - wqvv.cpl (file, size=242465)
+                    - wqvv (dir)
+                        - sbf.vcc (file, size=3191)
+                    - zln (dir)
+                        - crstpjjv (dir)
+                            - btqgw (file, size=86511)
+                            - rcstn.jpj (file, size=17597)
+            - pwp (dir)
+                - mgrdrbl.lqg (file, size=290915)
+                - nfgj (file, size=219909)
+                - sbf.vcc (file, size=207313)
+                - crstpjjv (dir)
+                    - crnfs.fgn (file, size=298992)
+                    - jqh (file, size=172934)
+                - jlqdbv (dir)
+                    - zgczmvng (file, size=300436)
+                - zpjf (dir)
+                    - sbf.vcc (file, size=78904)
+            - qjstb (dir)
+                - htm.lzc (file, size=85552)
+                - mzb.fvt (file, size=219773)
+                - schz (file, size=208419)
+                - dtb (dir)
+                    - crstpjjv.zlb (file, size=167147)
+                - gcd (dir)
+                    - rlvcvj (file, size=239595)
+                - gmcnhh (dir)
+                    - fpwznlp.zsf (file, size=111653)
+        - rvqwnjv (dir)
+            - cnsb.cmm (file, size=59215)
+            - jtlcr.rlm (file, size=37164)
+            - mnc (dir)
+                - cnsb.cmm (file, size=32159)
+                - trttdw.jsn (file, size=76204)
+        - ssmf (dir)
+            - hpdzv (file, size=127458)
+            - jtjp.mjj (file, size=288242)
+            - mgrdrbl.lqg (file, size=268857)
+            - nhfmbvc (file, size=223968)
+            - wqvv.fnl (file, size=235806)
+            - fvcd (dir)
+                - wcs.bdp (file, size=26479)
+            - jcg (dir)
+                - nsvtrs (dir)
+                    - dcgbjvj (dir)
+                        - trttdw.jsn (file, size=36633)
+                - zgczmvng (dir)
+                    - vszcg.jdb (file, size=221381)
+            - jzp (dir)
+                - dcgbjvj (file, size=1957)
+            - wqvv (dir)
+                - wqvv.pvs (file, size=9330)
+                - ztlh (file, size=46963)
+        - wcn (dir)
+            - pjfdtvzf.rdf (file, size=123361)
+            - cqdzdnq (dir)
+                - dqhpbsg (dir)
+                    - glbfq.vpw (file, size=245289)
+                    - vsvvzbns.ftf (file, size=51357)
+                - qlq (dir)
+                    - mqgnjht.vqq (file, size=210318)
+                - vfwhcpwl (dir)
+                    - mmpzcjmp.znn (file, size=109892)
+                - wqvv (dir)
+                    - chwdzfsg (dir)
+                        - fpwznlp.zsf (file, size=108951)
+                        - vgc (dir)
+                            - fpwznlp.zsf (file, size=273011)
+                            - ntc.ghp (file, size=248078)
+                            - thgbb.mfn (file, size=77305)
+                            - trttdw.jsn (file, size=73383)
+                    - crstpjjv (dir)
+                        - qmswb (dir)
+                            - trttdw.jsn (file, size=68252)
+                    - dcgbjvj (dir)
+                        - qtcs.llc (file, size=111)
+                        - szzthsmj (dir)
+                            - qhztdv (dir)
+                                - qrdsrrb.chw (file, size=138433)
+                                - rlvcvj (dir)
+                                    - rlvcvj.nmb (file, size=249984)
+                                    - jfcm (dir)
+                                        - dtrc.wsm (file, size=117884)
+                                        - rlvcvj.mhd (file, size=237577)
+                                    - lzf (dir)
+                                        - nrc.clh (file, size=60342)
+                                    - twrs (dir)
+                                        - cnsb.cmm (file, size=97201)
+                            - wqvv (dir)
+                                - gcqzjf.gcb (file, size=73047)
+                            - zmqrftlm (dir)
+                                - ltd (dir)
+                                    - fpwznlp.zsf (file, size=120673)
+                    - rllbccjt (dir)
+                        - cnsb.cmm (file, size=299611)
+                        - qwh (file, size=36418)
+                        - trttdw.jsn (file, size=255907)
+                        - lnfvlqh (dir)
+                            - fpwznlp.zsf (file, size=195010)
+                            - llrznf.rwc (file, size=72496)
+                            - mgrdrbl.lqg (file, size=53126)
+                            - mnrqtn (file, size=90191)
+                            - nthdm.crh (file, size=310156)
+                            - lvgzb (dir)
+                                - mgrdrbl.lqg (file, size=209837)
+                                - rwhgmd (file, size=210074)
+                                - sbf.vcc (file, size=70338)
+                        - rlvcvj (dir)
+                            - dcgbjvj (file, size=252080)
+                        - zqvzpv (dir)
+                            - zpt.lbc (file, size=249229)
+                    - rlvcvj (dir)
+                        - dcgbjvj (dir)
+                            - trttdw.jsn (file, size=191363)
+                        - fdz (dir)
+                            - bqsdfc.rcn (file, size=291107)
+                            - fpwznlp.zsf (file, size=64333)
+                            - mgrdrbl.lqg (file, size=280608)
+                            - trttdw.jsn (file, size=125554)
+                            - dcgbjvj (dir)
+                                - qwjhpdh (file, size=169326)
+                            - lfb (dir)
+                                - zqfnjtr.clt (file, size=35299)
+                - zpbbspcv (dir)
+                    - mgrdrbl.lqg (file, size=54549)
+            - cszzg (dir)
+                - wqvv (dir)
+                    - crstpjjv.jtq (file, size=136042)
+                    - trttdw.jsn (file, size=10879)
+            - fqmcr (dir)
+                - bchvt.dvw (file, size=188798)
+                - fpwznlp.zsf (file, size=276819)
+                - zgczmvng.fqs (file, size=5623)
+                - znddbv (file, size=158621)
+                - gdr (dir)
+                    - cnsb.cmm (file, size=213096)
+                    - btg (dir)
+                        - hjm (dir)
+                            - zgczmvng.llz (file, size=144774)
+                    - dhbcmzbz (dir)
+                        - rlvcvj (file, size=148108)
+                - rlvcvj (dir)
+                    - qrdlf.pvg (file, size=201103)
+                    - vnpgw.wts (file, size=272776)
+                    - zgczmvng (file, size=153826)
+                    - zgczmvng.gsv (file, size=290248)
+            - rmrg (dir)
+                - jzb (dir)
+                    - trttdw.jsn (file, size=273968)
+                - nsslsw (dir)
+                    - sbf.vcc (file, size=226370)
+                - rlvcvj (dir)
+                    - gsbqswjj (file, size=294706)
+            - rsfddzs (dir)
+                - crstpjjv (file, size=205384)
+                - dfrjwrnz.bfl (file, size=82103)
+                - pqtrvd (file, size=297145)
+                - sbf.vcc (file, size=237572)
+                - cphvtp (dir)
+                    - phvc (dir)
+                        - dcgbjvj.lbj (file, size=52239)
+                - fntvngpm (dir)
+                    - mgrdrbl.lqg (file, size=18297)
+                - zgczmvng (dir)
+                    - tzqjcn (file, size=179956)
+                    - lzcwf (dir)
+                        - cnsb.cmm (file, size=284166)
+                        - jhmmn.qwn (file, size=157214)
+                    - pqmc (dir)
+                        - nlvdqw.jmt (file, size=215883)
+                        - wqvv.fgg (file, size=209722)
+                        - qjfr (dir)
+                            - mgrdrbl.lqg (file, size=53013)
+                            - sgmnjc (file, size=191236)
+                    - zgczmvng (dir)
+                        - dglqpjs (file, size=260649)
+                        - mgrdrbl.lqg (file, size=141213)
+            - vqrpdwv (dir)
+                - mgrdrbl.lqg (file, size=150895)
+                - nbrzfl.dpf (file, size=227641)
+                - ftw (dir)
+                    - dbsgvvbp (file, size=99672)
+                    - mgrdrbl.lqg (file, size=146730)
+                    - dnzld (dir)
+                        - bhjbfl.svw (file, size=37598)
+                        - qspsslt (dir)
+                            - vhgpwvf (dir)
+                                - ghgl (file, size=146936)
+                - nwjdnpdd (dir)
+                    - trttdw.jsn (file, size=46000)
+            - wpgddhdq (dir)
+                - rqgf (dir)
+                    - rlvcvj.fmr (file, size=197374)
+            - wpgv (dir)
+                - fpwznlp.zsf (file, size=286086)
+                - wqvv (file, size=258062)
+                - fdh (dir)
+                    - fpwznlp.zsf (file, size=76173)
+                    - nczhtpcn (file, size=230947)
+                    - rlvcvj (file, size=62630)
+                - pljq (dir)
+                    - rjms.dcg (file, size=41117)
+                    - mzmm (dir)
+                        - zgczmvng.ttl (file, size=144202)
+                - zgczmvng (dir)
+                    - dncr (dir)
+                        - dcgbjvj (file, size=198052)
+                        - rlvcvj.qwg (file, size=2829)
+                        - dqdgft (dir)
+                            - fng (dir)
+                                - zgczmvng (file, size=198899)
+                            - nlsmb (dir)
+                                - gmr.vmg (file, size=257121)
+                                - zsmd.bng (file, size=9276)
+                        - hpmwvnsr (dir)
+                            - jjwqbwl.fpl (file, size=241101)
+                            - wqvv (file, size=64151)
+                            - zgczmvng (file, size=196139)
+                    - mcdmfdp (dir)
+                        - lrgbhq (file, size=276856)
+                    - pgqglmj (dir)
+                        - fpwznlp.zsf (file, size=36476)
+                    - qldrmn (dir)
+                        - trttdw.jsn (file, size=295686)
+    - dcgbjvj (dir)
+        - zgczmvng.jsm (file, size=119561)
+        - brdfvd (dir)
+            - mhdjc.mng (file, size=272932)
+            - zgczmvng.jwg (file, size=91053)
+            - wqvv (dir)
+                - jhlqfn.sbs (file, size=121367)
+                - nsgbt (file, size=61760)
+                - sbf.vcc (file, size=46653)
+                - trttdw.jsn (file, size=16952)
+                - bpplph (dir)
+                    - rlvcvj (file, size=1288)
+        - crstpjjv (dir)
+            - sbf.vcc (file, size=117722)
+        - fzdqcgv (dir)
+            - fpwznlp.zsf (file, size=289819)
+        - fzw (dir)
+            - dcgbjvj (dir)
+                - cnsb.cmm (file, size=272427)
+            - zsfqwdth (dir)
+                - bdbgtqjj (dir)
+                    - tnqmspdf.cwd (file, size=318980)
+                - hcgrqbhl (dir)
+                    - fpwznlp.zsf (file, size=135307)
+                    - wqvv (dir)
+                        - ctz.wms (file, size=68708)
+                        - wlvdrfsw.qcj (file, size=149578)
+            - zswdl (dir)
+                - cnsb.cmm (file, size=259754)
+        - mrllpw (dir)
+            - tvsm (file, size=44007)
+        - wnh (dir)
+            - wpdhq.hvp (file, size=156515)
+            - mjnrmb (dir)
+                - fpwznlp.zsf (file, size=293592)
+    - nsgms (dir)
+        - zgczmvng.wmt (file, size=32152)
+        - dnhzj (dir)
+            - flqbvrw.gmf (file, size=281195)
+            - jjsfrmc.drz (file, size=177042)
+        - ptc (dir)
+            - pccmrnn (file, size=290797)
+            - rzl.tjm (file, size=59802)
+            - gjvnrcln (dir)
+                - jph (dir)
+                    - hflqlwr.mph (file, size=105648)
+                    - hmlqsp (file, size=158151)
+            - zgczmvng (dir)
+                - bwn.wqq (file, size=3700)
+                - jbvhs.chq (file, size=240004)
+                - mvftsj (file, size=224969)
+        - tnfrr (dir)
+            - mgrdrbl.lqg (file, size=237956)
+            - hlbrpt (dir)
+                - crstpjjv.rlw (file, size=34424)
+                - mwrvw (file, size=275267)
+                - nwqzrc.tnf (file, size=313095)
+                - wzhgm.fft (file, size=61808)
+                - dzs (dir)
+                    - cbbvq.vvh (file, size=274302)
+                    - dcgbjvj.cbq (file, size=234166)
+                    - fpwznlp.zsf (file, size=253156)
+                    - nzdbr (file, size=7239)
+            - wqvv (dir)
+                - hchsfcp.clm (file, size=120918)
+                - nfhrd.tts (file, size=105770)
+        - vjt (dir)
+            - crstpjjv (dir)
+                - fpwznlp.zsf (file, size=81225)
+    - wqvv (dir)
+        - bcld.nwh (file, size=72054)
+        - cvsmmh (file, size=284293)
+        - ndgnz (file, size=32684)
+        - rlvcvj (file, size=130836)
+        - sbf.vcc (file, size=233437)
+        - szwnlv (dir)
+            - bnmhmpr.vww (file, size=133507)
+
+Smallest deletable directory is: - wvq (dir)
+    - dcgbjvj.rwc (file, size=23240)
+    - hcb (file, size=79015)
+    - jjc (file, size=155120)
+    - wqvv.cwp (file, size=207559)
+    - wqvv (dir)
+        - cnsb.cmm (file, size=130961)
+        - hgbr.snf (file, size=208524)
+        - mgrdrbl.lqg (file, size=14868)
+        - zgczmvng (file, size=143653)
+        - fcl (dir)
+            - jfjgnz (dir)
+                - trttdw.jsn (file, size=225416)
+        - lzs (dir)
+            - vtcmf (file, size=111949)
+        - sqpgtrn (dir)
+            - cnsb.cmm (file, size=289955)
+            - nwv.blw (file, size=6334)
+            - crstpjjv (dir)
+                - jtcndb.wht (file, size=144739)
+                - qdccst.dsg (file, size=16215)
+            - dcgbjvj (dir)
+                - fjmbgql (file, size=82495)
+                - hlcwhnf (file, size=248051)
+                - qwzjc.sth (file, size=145452)
+                - wqvv (file, size=268967)
+                - wqvv.vdm (file, size=23371)
+                - bnzmws (dir)
+                    - pvgrqjf.ftq (file, size=119626)
+                    - tscrpt.szt (file, size=204879)
+                    - dcgbjvj (dir)
+                        - msf.qhf (file, size=152171)
+                    - dgbtqdn (dir)
+                        - fpwznlp.zsf (file, size=64965)
+                - crstpjjv (dir)
+                    - mgrdrbl.lqg (file, size=97804)
+                    - trttdw.jsn (file, size=88837)
+                - spmr (dir)
+                    - dcgbjvj (file, size=302501)
+                - zgczmvng (dir)
+                    - prznqbn (file, size=187957)
+                    - crstpjjv (dir)
+                        - jlb.nvs (file, size=218211)
+            - vpnhcsfr (dir)
+                - qtcdjgz (file, size=220411)
+ with a size of 4183246
